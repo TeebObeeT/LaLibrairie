@@ -1,373 +1,99 @@
-Mozilla Public License Version 2.0
-==================================
-
-1. Definitions
---------------
-
-1.1. "Contributor"
-    means each individual or legal entity that creates, contributes to
-    the creation of, or owns Covered Software.
-
-1.2. "Contributor Version"
-    means the combination of the Contributions of others (if any) used
-    by a Contributor and that particular Contributor's Contribution.
-
-1.3. "Contribution"
-    means Covered Software of a particular Contributor.
-
-1.4. "Covered Software"
-    means Source Code Form to which the initial Contributor has attached
-    the notice in Exhibit A, the Executable Form of such Source Code
-    Form, and Modifications of such Source Code Form, in each case
-    including portions thereof.
-
-1.5. "Incompatible With Secondary Licenses"
-    means
-
-    (a) that the initial Contributor has attached the notice described
-        in Exhibit B to the Covered Software; or
+Licence publique Creative Commons Attribution 4.0 International
 
-    (b) that the Covered Software was made available under the terms of
-        version 1.1 or earlier of the License, but not also under the
-        terms of a Secondary License.
+Lorsque Vous exercez les Droits accordés par la licence (définis ci-dessous), Vous acceptez d'être lié par les termes et conditions de la présente Licence publique Creative Commons Attribution 4.0 International (la « Licence publique »). Dans la mesure où la présente Licence publique peut être interprétée comme un contrat, Vous bénéficiez des Droits accordés par la licence en contrepartie de Votre acceptation des présents termes et conditions, et le Donneur de licence Vous accorde ces droits en contrepartie des avantages que lui procure le fait de mettre à disposition l’Œuvre sous licence en vertu des présents termes et conditions.
 
-1.6. "Executable Form"
-    means any form of the work other than Source Code Form.
+Article 1 - Définitions.
 
-1.7. "Larger Work"
-    means a work that combines Covered Software with other material, in
-    a separate file or files, that is not Covered Software.
+    Œuvre dérivée signifie œuvre protégée par les Droit d’auteur et droits connexes, dérivée ou adaptée de l’Œuvre sous licence et dans laquelle l’Œuvre sous licence est traduite, retouchée, arrangée, transformée, ou modifiée de telle façon que l’autorisation du Donneur de licence est nécessaire, conformément aux dispositions des Droit d’auteur et droits connexes. Dans le cas de la présente Licence publique, lorsque l’Œuvre sous licence est une œuvre musicale, une représentation publique ou un enregistrement sonore, la synchronisation de l'Œuvre sous licence avec une image animée sera considérée comme une Œuvre dérivée aux fins de la présente Licence publique.
+    Licence d’Œuvre dérivée signifie licence par laquelle Vous accordez Vos Droit d'auteur et droits connexes portant sur Vos contributions à l'Œuvre dérivée, selon les termes et conditions de la présente Licence publique.
+    Droit d’auteur et droits connexes signifie droit d’auteur et/ou droits connexes incluant, notamment, la représentation, la radio et télédiffusion, l’enregistrement sonore et le Droit sui generis des producteurs de bases de données, quelle que soit la classification ou qualification juridique de ces droits. Dans le cadre de la présente Licence publique, les droits visés à l’Article 2(b)(1)-(2) ne relèvent ni du Droit d’auteur ni de droits connexes.
+    Mesures techniques efficaces signifie mesures techniques qui, en l’absence d’autorisation expresse, ne peuvent être contournées dans le cadre de lois conformes aux dispositions de l’Article 11 du Traité de l’OMPI sur le droit d’auteur adopté le 20 Décembre 1996 et/ou d’accords internationaux de même objet.
+    Exceptions et limitations signifie utilisation loyale et équitable (fair use et fair dealing) et/ou toute autre exception ou limitation applicable à Votre utilisation de l’Œuvre sous licence.
+    Œuvre sous licence signifie œuvre littéraire ou artistique, base de données ou toute autre œuvre pour laquelle le Donneur de licence a recours à la présente Licence publique.
+    Droits accordés par la licence signifie droits qui Vous sont accordés selon les termes et conditions d’utilisation définis par la présente Licence publique, limités aux Droit d’auteur et droits connexes applicables à Votre utilisation de l’Œuvre sous licence et que le Donneur de licence a le droit d’accorder.
+    Donneur de licence signifie un individu ou une entité octroyant la présente Licence publique et les droits accordés par elle.
+    Partager signifie mettre une œuvre à la disposition du public par tout moyen ou procédé qui requiert l’autorisation découlant des Droits accordés par la licence, tels que les droits de reproduction, de représentation au public, de distribution, de diffusion, de communication ou d’importation, y compris de manière à ce que chacun puisse y avoir accès de l’endroit et au moment qu’il choisit individuellement.
+    Droit sui generis des producteurs de bases de données signifie droits distincts du droit d'auteur résultant de la Directive 96/9/CE du Parlement européen et du Conseil du 11 mars 1996 sur la protection juridique des bases de données, ainsi que tout autre droit de nature équivalente dans le monde.
+    Vous (preneur de licence) se rapporte à tout individu ou entité exerçant les Droits accordés par la licence. Votre et Vos renvoient également au preneur de licence.
 
-1.8. "License"
-    means this document.
+Article 2 - Champ d’application de la présente Licence publique.
 
-1.9. "Licensable"
-    means having the right to grant, to the maximum extent possible,
-    whether at the time of the initial grant or subsequently, any and
-    all of the rights conveyed by this License.
+    Octroi de la licence.
+        Sous réserve du respect des termes et conditions d'utilisation de la présente Licence publique, le Donneur de licence Vous autorise à exercer pour le monde entier, à titre gratuit, non sous-licenciable, non exclusif, irrévocable, les Droits accordés par la licence afin de :
+            reproduire et Partager l’Œuvre sous licence, en tout ou partie ; et
+            produire, reproduire et Partager l’Œuvre dérivée.
+        Exceptions et limitations. Afin de lever toute ambiguïté, lorsque les Exceptions et limitations s’appliquent à Votre utilisation, la présente Licence publique ne s’applique pas et Vous n’avez pas à Vous conformer à ses termes et conditions.
+        Durée. La durée de la présente Licence publique est définie à l’Article 6(a).
+        Supports et formats : modifications techniques autorisées. Le Donneur de licence Vous autorise à exercer les Droits accordés par la licence sur tous les supports et formats connus ou encore inconnus à ce jour, et à apporter toutes les modifications techniques que ceux-ci requièrent. Le Donneur de licence renonce et/ou accepte de ne pas exercer ses droits qui pourraient être susceptibles de Vous empêcher d’apporter les modifications techniques nécessaires pour exercer les Droits accordés par la licence, y compris celles nécessaires au contournement des Mesures techniques efficaces. Dans le cadre de la présente Licence publique, le fait de ne procéder qu’à de simples modifications techniques autorisées selon les termes du présent Article 2(a)(4) n’est jamais de nature à créer une Œuvre dérivée.
+        Utilisateurs en aval.
+            Offre du Donneur de licence – Œuvre sous licence. Chaque utilisateur de l’Œuvre sous licence reçoit automatiquement une offre de la part du Donneur de licence lui permettant d’exercer les Droits accordés par la licence selon les termes et conditions de la présente Licence publique.
+            Pas de restrictions en aval pour les utilisateurs suivants. Vous ne pouvez proposer ou imposer des termes et conditions supplémentaires ou différents, ou appliquer quelque Mesure technique efficace que ce soit à l’Œuvre sous licence si ceux(celles)-ci sont de nature à restreindre l’exercice des Droits accordés par la licence aux utilisateurs de l’Œuvre sous licence.
+        Non approbation. Aucun élément de la présente Licence publique ne peut être interprété comme laissant supposer que le preneur de licence ou que l’utilisation qu’il fait de l’Œuvre sous licence est lié à, parrainé, approuvé, ou doté d'un statut officiel par le Donneur de licence ou par toute autre personne à qui revient l’attribution de l’Œuvre sous licence, comme indiqué à l’Article 3(a)(1)(A)(i).
 
-1.10. "Modifications"
-    means any of the following:
+    Autres droits.
+        Les droits moraux, tel que le droit à l’intégrité de l’œuvre, ne sont pas accordés par la présente Licence publique, ni le droit à l’image, ni le droit au respect de la vie privée, ni aucun autre droit de la personnalité ou apparenté ; cependant, dans la mesure du possible, le Donneur de licence renonce et/ou accepte de ne pas faire valoir les droits qu’il détient de manière à Vous permettre d’exercer les Droits accordés par la licence.
+        Le droit des brevets et le droit des marques ne sont pas concernés par la présente Licence publique.
+        Dans la mesure du possible, le Donneur de licence renonce au droit de collecter des redevances auprès de Vous pour l’exercice des Droits accordés par la licence, directement ou indirectement dans le cadre d’un régime de gestion collective facultative ou obligatoire assorti de possibilités de renonciation quel que soit le type d’accord ou de licence. Dans tous les autres cas, le Donneur de licence se réserve expressément le droit de collecter de telles redevances.
 
-    (a) any file in Source Code Form that results from an addition to,
-        deletion from, or modification of the contents of Covered
-        Software; or
+Article 3 – Conditions d'utilisation de la présente Licence publique.
 
-    (b) any new file in Source Code Form that contains any Covered
-        Software.
+L’exercice des Droits accordés par la licence est expressément soumis aux conditions suivantes.
 
-1.11. "Patent Claims" of a Contributor
-    means any patent claim(s), including without limitation, method,
-    process, and apparatus claims, in any patent Licensable by such
-    Contributor that would be infringed, but for the grant of the
-    License, by the making, using, selling, offering for sale, having
-    made, import, or transfer of either its Contributions or its
-    Contributor Version.
+    Attribution.
 
-1.12. "Secondary License"
-    means either the GNU General Public License, Version 2.0, the GNU
-    Lesser General Public License, Version 2.1, the GNU Affero General
-    Public License, Version 3.0, or any later versions of those
-    licenses.
+        Si Vous partagez l’Œuvre sous licence (y compris sous une forme modifiée), Vous devez :
+            conserver les informations suivantes lorsqu’elles sont fournies par le Donneur de licence avec l’Œuvre sous licence :
+                identification du(des) auteur(s) de l’Œuvre sous licence et de toute personne à qui revient l’attribution de l’Œuvre sous licence, dans la mesure du possible, conformément à la demande du Donneur de licence (y compris sous la forme d’un pseudonyme s’il est indiqué) ;
+                l’indication de l’existence d’un droit d’auteur ;
+                une notice faisant référence à la présente Licence publique ;
+                une notice faisant référence aux limitations de garantie et exclusions de responsabilité ;
+                un URI ou un hyperlien vers l’Œuvre sous licence dans la mesure du possible ;
+            Indiquer si Vous avez modifié l’Œuvre sous licence et conserver un suivi des modifications précédentes ; et
+            Indiquer si l’Œuvre sous licence est mise à disposition en vertu de la présente Licence publique en incluant le texte, l’URI ou l’hyperlien correspondant à la présente Licence publique.
+        Vous pouvez satisfaire aux conditions de l’Article 3(a)(1) dans toute la mesure du possible, en fonction des supports, moyens et contextes dans lesquels Vous Partagez l’Œuvre sous licence. Par exemple, Vous pouvez satisfaire aux conditions susmentionnées en fournissant l’URI ou l’hyperlien vers la ressource incluant les informations requises.
+        Bien que requises aux termes de l’Article 3(a)(1)(A), certaines informations devront être retirées, dans la mesure du possible, si le Donneur de licence en fait la demande.
+        Si Vous Partagez une Œuvre dérivée que Vous avez réalisée, la Licence d’Œuvre dérivée que Vous utilisez ne doit pas porter atteinte au respect de la présente Licence publique par les utilisateurs de l’Œuvre dérivée.
 
-1.13. "Source Code Form"
-    means the form of the work preferred for making modifications.
+Article 4 – Le Droit sui generis des producteurs de bases de données.
 
-1.14. "You" (or "Your")
-    means an individual or a legal entity exercising rights under this
-    License. For legal entities, "You" includes any entity that
-    controls, is controlled by, or is under common control with You. For
-    purposes of this definition, "control" means (a) the power, direct
-    or indirect, to cause the direction or management of such entity,
-    whether by contract or otherwise, or (b) ownership of more than
-    fifty percent (50%) of the outstanding shares or beneficial
-    ownership of such entity.
+Lorsque les Droits accordés par la licence incluent le Droit sui generis des producteurs de bases de données applicable à Votre utilisation de l’Œuvre sous licence :
 
-2. License Grants and Conditions
---------------------------------
+    afin de lever toute ambiguïté, l’Article 2(a)(1) Vous accorde le droit d’extraire, réutiliser, reproduire et Partager la totalité ou une partie substantielle du contenu de la base de données ;
+    si Vous incluez la totalité ou une partie substantielle du contenu de la base de données dans une base de données pour laquelle Vous détenez un Droit sui generis de producteur de bases de données, la base de données sur laquelle Vous détenez un tel droit (mais pas ses contenus individuels) sera alors considérée comme une Œuvre dérivée ; et
+    Vous devez respecter les conditions de l’Article 3(a) si Vous Partagez la totalité ou une partie substantielle du contenu des bases de données.
 
-2.1. Grants
+Afin de lever toute ambiguïté, le présent Article 4 complète mais ne remplace pas Vos obligations découlant des termes de la présente Licence publique lorsque les Droits accordés par la licence incluent d’autres Droit d’auteur et droits connexes.
 
-Each Contributor hereby grants You a world-wide, royalty-free,
-non-exclusive license:
+Article 5 – Limitations de garantie et exclusions de responsabilité.
 
-(a) under intellectual property rights (other than patent or trademark)
-    Licensable by such Contributor to use, reproduce, make available,
-    modify, display, perform, distribute, and otherwise exploit its
-    Contributions, either on an unmodified basis, with Modifications, or
-    as part of a Larger Work; and
+    Sauf indication contraire et dans la mesure du possible, le Donneur de licence met à disposition l’Œuvre sous licence telle quelle, et n’offre aucune garantie de quelque sorte que ce soit, notamment expresse, implicite, statutaire ou autre la concernant. Cela inclut, notamment, les garanties liées au titre, à la valeur marchande, à la compatibilité de certaines utilisations particulières, à l’absence de violation, à l’absence de vices cachés ou autres défauts, à l’exactitude, à la présence ou à l’absence d’erreurs connues ou non ou susceptibles d’être découvertes dans l’Œuvre sous licence. Lorsqu’une limitation de garantie n’est pas autorisée en tout ou partie, cette clause peut ne pas Vous être applicable.
+    Dans la mesure du possible, le Donneur de licence ne saurait voir sa responsabilité engagée vis-à-vis de Vous, quel qu’en soit le fondement juridique (y compris, notamment, la négligence), pour tout préjudice direct, spécial, indirect, incident, conséquentiel, punitif, exemplaire, ou pour toutes pertes, coûts, dépenses ou tout dommage découlant de l’utilisation de la présente Licence publique ou de l’utilisation de l’Œuvre sous licence, même si le Donneur de licence avait connaissance de l’éventualité de telles pertes, coûts, dépenses ou dommages. Lorsqu’une exclusion de responsabilité n’est pas autorisée en tout ou partie, cette clause peut ne pas Vous être applicable.
 
-(b) under Patent Claims of such Contributor to make, use, sell, offer
-    for sale, have made, import, and otherwise transfer either its
-    Contributions or its Contributor Version.
+    Les limitations de garantie et exclusions de responsabilité ci-dessus doivent être interprétées, dans la mesure du possible, comme des limitations et renonciations totales de toute responsabilité.
 
-2.2. Effective Date
+Article 6 – Durée et fin.
 
-The licenses granted in Section 2.1 with respect to any Contribution
-become effective for each Contribution on the date the Contributor first
-distributes such Contribution.
+    La présente Licence publique s’applique pendant toute la durée de validité des Droits accordés par la licence. Cependant, si Vous manquez à Vos obligations prévues par la présente Licence publique, Vos droits accordés par la présente Licence publique seront automatiquement révoqués.
 
-2.3. Limitations on Grant Scope
+    Lorsque les Droits accordés par la licence ont été révoqués selon les termes de l’Article 6(a), ils seront rétablis :
+        automatiquement, à compter du jour où la violation aura cessé, à condition que Vous y remédiiez dans les 30 jours suivant la date à laquelle Vous aurez eu connaissance de la violation ; ou
+        à condition que le Donneur de licence l’autorise expressément.
+    Afin de lever toute ambiguïté, le présent Article 6(b) n’affecte pas le droit du Donneur de licence de demander réparation dans les cas de violation de la présente Licence publique.
+    Afin de lever toute ambiguïté, le Donneur de licence peut également proposer l’Œuvre sous licence selon d’autres termes et conditions et peut cesser la mise à disposition de l’Œuvre sous licence à tout moment ; une telle cessation n’entraîne pas la fin de la présente Licence publique.
+    Les Articles 1, 5, 6, 7, et 8 continueront à s’appliquer même après la résiliation de la présente Licence publique.
 
-The licenses granted in this Section 2 are the only rights granted under
-this License. No additional rights or licenses will be implied from the
-distribution or licensing of Covered Software under this License.
-Notwithstanding Section 2.1(b) above, no patent license is granted by a
-Contributor:
+Article 7 – Autres termes et conditions.
 
-(a) for any code that a Contributor has removed from Covered Software;
-    or
+    Sauf accord exprès, le Donneur de licence n’est lié par aucune modification des termes de Votre part.
+    Tous arrangements, ententes ou accords relatifs à l’Œuvre sous licence non mentionnés dans la présente Licence publique sont séparés et indépendants des termes et conditions de la présente Licence publique.
 
-(b) for infringements caused by: (i) Your and any other third party's
-    modifications of Covered Software, or (ii) the combination of its
-    Contributions with other software (except as part of its Contributor
-    Version); or
+Article 8 – Interprétation.
 
-(c) under Patent Claims infringed by Covered Software in the absence of
-    its Contributions.
-
-This License does not grant any rights in the trademarks, service marks,
-or logos of any Contributor (except as may be necessary to comply with
-the notice requirements in Section 3.4).
-
-2.4. Subsequent Licenses
-
-No Contributor makes additional grants as a result of Your choice to
-distribute the Covered Software under a subsequent version of this
-License (see Section 10.2) or under the terms of a Secondary License (if
-permitted under the terms of Section 3.3).
-
-2.5. Representation
-
-Each Contributor represents that the Contributor believes its
-Contributions are its original creation(s) or it has sufficient rights
-to grant the rights to its Contributions conveyed by this License.
-
-2.6. Fair Use
-
-This License is not intended to limit any rights You have under
-applicable copyright doctrines of fair use, fair dealing, or other
-equivalents.
-
-2.7. Conditions
-
-Sections 3.1, 3.2, 3.3, and 3.4 are conditions of the licenses granted
-in Section 2.1.
-
-3. Responsibilities
--------------------
-
-3.1. Distribution of Source Form
-
-All distribution of Covered Software in Source Code Form, including any
-Modifications that You create or to which You contribute, must be under
-the terms of this License. You must inform recipients that the Source
-Code Form of the Covered Software is governed by the terms of this
-License, and how they can obtain a copy of this License. You may not
-attempt to alter or restrict the recipients' rights in the Source Code
-Form.
-
-3.2. Distribution of Executable Form
-
-If You distribute Covered Software in Executable Form then:
-
-(a) such Covered Software must also be made available in Source Code
-    Form, as described in Section 3.1, and You must inform recipients of
-    the Executable Form how they can obtain a copy of such Source Code
-    Form by reasonable means in a timely manner, at a charge no more
-    than the cost of distribution to the recipient; and
-
-(b) You may distribute such Executable Form under the terms of this
-    License, or sublicense it under different terms, provided that the
-    license for the Executable Form does not attempt to limit or alter
-    the recipients' rights in the Source Code Form under this License.
-
-3.3. Distribution of a Larger Work
-
-You may create and distribute a Larger Work under terms of Your choice,
-provided that You also comply with the requirements of this License for
-the Covered Software. If the Larger Work is a combination of Covered
-Software with a work governed by one or more Secondary Licenses, and the
-Covered Software is not Incompatible With Secondary Licenses, this
-License permits You to additionally distribute such Covered Software
-under the terms of such Secondary License(s), so that the recipient of
-the Larger Work may, at their option, further distribute the Covered
-Software under the terms of either this License or such Secondary
-License(s).
-
-3.4. Notices
-
-You may not remove or alter the substance of any license notices
-(including copyright notices, patent notices, disclaimers of warranty,
-or limitations of liability) contained within the Source Code Form of
-the Covered Software, except that You may alter any license notices to
-the extent required to remedy known factual inaccuracies.
-
-3.5. Application of Additional Terms
-
-You may choose to offer, and to charge a fee for, warranty, support,
-indemnity or liability obligations to one or more recipients of Covered
-Software. However, You may do so only on Your own behalf, and not on
-behalf of any Contributor. You must make it absolutely clear that any
-such warranty, support, indemnity, or liability obligation is offered by
-You alone, and You hereby agree to indemnify every Contributor for any
-liability incurred by such Contributor as a result of warranty, support,
-indemnity or liability terms You offer. You may include additional
-disclaimers of warranty and limitations of liability specific to any
-jurisdiction.
-
-4. Inability to Comply Due to Statute or Regulation
----------------------------------------------------
-
-If it is impossible for You to comply with any of the terms of this
-License with respect to some or all of the Covered Software due to
-statute, judicial order, or regulation then You must: (a) comply with
-the terms of this License to the maximum extent possible; and (b)
-describe the limitations and the code they affect. Such description must
-be placed in a text file included with all distributions of the Covered
-Software under this License. Except to the extent prohibited by statute
-or regulation, such description must be sufficiently detailed for a
-recipient of ordinary skill to be able to understand it.
-
-5. Termination
---------------
-
-5.1. The rights granted under this License will terminate automatically
-if You fail to comply with any of its terms. However, if You become
-compliant, then the rights granted under this License from a particular
-Contributor are reinstated (a) provisionally, unless and until such
-Contributor explicitly and finally terminates Your grants, and (b) on an
-ongoing basis, if such Contributor fails to notify You of the
-non-compliance by some reasonable means prior to 60 days after You have
-come back into compliance. Moreover, Your grants from a particular
-Contributor are reinstated on an ongoing basis if such Contributor
-notifies You of the non-compliance by some reasonable means, this is the
-first time You have received notice of non-compliance with this License
-from such Contributor, and You become compliant prior to 30 days after
-Your receipt of the notice.
-
-5.2. If You initiate litigation against any entity by asserting a patent
-infringement claim (excluding declaratory judgment actions,
-counter-claims, and cross-claims) alleging that a Contributor Version
-directly or indirectly infringes any patent, then the rights granted to
-You by any and all Contributors for the Covered Software under Section
-2.1 of this License shall terminate.
-
-5.3. In the event of termination under Sections 5.1 or 5.2 above, all
-end user license agreements (excluding distributors and resellers) which
-have been validly granted by You or Your distributors under this License
-prior to termination shall survive termination.
-
-************************************************************************
-*                                                                      *
-*  6. Disclaimer of Warranty                                           *
-*  -------------------------                                           *
-*                                                                      *
-*  Covered Software is provided under this License on an "as is"       *
-*  basis, without warranty of any kind, either expressed, implied, or  *
-*  statutory, including, without limitation, warranties that the       *
-*  Covered Software is free of defects, merchantable, fit for a        *
-*  particular purpose or non-infringing. The entire risk as to the     *
-*  quality and performance of the Covered Software is with You.        *
-*  Should any Covered Software prove defective in any respect, You     *
-*  (not any Contributor) assume the cost of any necessary servicing,   *
-*  repair, or correction. This disclaimer of warranty constitutes an   *
-*  essential part of this License. No use of any Covered Software is   *
-*  authorized under this License except under this disclaimer.         *
-*                                                                      *
-************************************************************************
-
-************************************************************************
-*                                                                      *
-*  7. Limitation of Liability                                          *
-*  --------------------------                                          *
-*                                                                      *
-*  Under no circumstances and under no legal theory, whether tort      *
-*  (including negligence), contract, or otherwise, shall any           *
-*  Contributor, or anyone who distributes Covered Software as          *
-*  permitted above, be liable to You for any direct, indirect,         *
-*  special, incidental, or consequential damages of any character      *
-*  including, without limitation, damages for lost profits, loss of    *
-*  goodwill, work stoppage, computer failure or malfunction, or any    *
-*  and all other commercial damages or losses, even if such party      *
-*  shall have been informed of the possibility of such damages. This   *
-*  limitation of liability shall not apply to liability for death or   *
-*  personal injury resulting from such party's negligence to the       *
-*  extent applicable law prohibits such limitation. Some               *
-*  jurisdictions do not allow the exclusion or limitation of           *
-*  incidental or consequential damages, so this exclusion and          *
-*  limitation may not apply to You.                                    *
-*                                                                      *
-************************************************************************
-
-8. Litigation
--------------
-
-Any litigation relating to this License may be brought only in the
-courts of a jurisdiction where the defendant maintains its principal
-place of business and such litigation shall be governed by laws of that
-jurisdiction, without reference to its conflict-of-law provisions.
-Nothing in this Section shall prevent a party's ability to bring
-cross-claims or counter-claims.
-
-9. Miscellaneous
-----------------
-
-This License represents the complete agreement concerning the subject
-matter hereof. If any provision of this License is held to be
-unenforceable, such provision shall be reformed only to the extent
-necessary to make it enforceable. Any law or regulation which provides
-that the language of a contract shall be construed against the drafter
-shall not be used to construe this License against a Contributor.
-
-10. Versions of the License
----------------------------
-
-10.1. New Versions
-
-Mozilla Foundation is the license steward. Except as provided in Section
-10.3, no one other than the license steward has the right to modify or
-publish new versions of this License. Each version will be given a
-distinguishing version number.
-
-10.2. Effect of New Versions
-
-You may distribute the Covered Software under the terms of the version
-of the License under which You originally received the Covered Software,
-or under the terms of any subsequent version published by the license
-steward.
-
-10.3. Modified Versions
-
-If you create software not governed by this License, and you want to
-create a new license for such software, you may create and use a
-modified version of this License if you rename the license and remove
-any references to the name of the license steward (except to note that
-such modified license differs from this License).
-
-10.4. Distributing Source Code Form that is Incompatible With Secondary
-Licenses
-
-If You choose to distribute Source Code Form that is Incompatible With
-Secondary Licenses under the terms of this version of the License, the
-notice described in Exhibit B of this License must be attached.
-
-Exhibit A - Source Code Form License Notice
--------------------------------------------
-
-  This Source Code Form is subject to the terms of the Mozilla Public
-  License, v. 2.0. If a copy of the MPL was not distributed with this
-  file, You can obtain one at http://mozilla.org/MPL/2.0/.
-
-If it is not possible or desirable to put the notice in a particular
-file, then You may include the notice in a location (such as a LICENSE
-file in a relevant directory) where a recipient would be likely to look
-for such a notice.
-
-You may add additional accurate notices of copyright ownership.
-
-Exhibit B - "Incompatible With Secondary Licenses" Notice
----------------------------------------------------------
-
-  This Source Code Form is "Incompatible With Secondary Licenses", as
-  defined by the Mozilla Public License, v. 2.0.
+    Afin de lever toute ambiguïté, la présente Licence publique ne doit en aucun cas être interprétée comme ayant pour effet de réduire, limiter, restreindre ou imposer des conditions plus contraignantes que celles qui sont prévues par les dispositions légales applicables.
+    Dans la mesure du possible, si une clause de la présente Licence publique est déclarée inapplicable, elle sera automatiquement modifiée a minima afin de la rendre applicable. Dans le cas où la clause ne peut être modifiée, elle sera écartée de la présente Licence publique sans préjudice de l’applicabilité des termes et conditions restants.
+    Aucun terme ni aucune condition de la présente Licence publique ne sera écarté(e) et aucune violation ne sera admise sans l’accord exprès du Donneur de licence.
+    Aucun terme ni aucune condition de la présente Licence publique ne constitue ou ne peut être interprété(e) comme une limitation ou une renonciation à un quelconque privilège ou à une immunité s’appliquant au Donneur de licence ou à Vous, y compris lorsque celles-ci émanent d’une procédure légale, quel(le) qu’en soit le système juridique concerné ou l’autorité compétente.
+
+Creative Commons n’est pas partie prenante de ses licences publiques. Néanmoins, Creative Commons se réserve le droit d'utiliser une de ses licences publiques pour les œuvres qu’elle publie, et dans ce cas sera considérée comme « Donneur de licence ». Le texte des licences publiques Creative Commons est versé au domaine public en vertu de CC0 Domaine Public. A l’exception des seuls cas où il est indiqué que l’œuvre est mise à disposition sous licence publique Creative Commons et ceux autorisés par les statuts de Creative Commons disponibles sur creativecommons.org/policies, Creative Commons n’autorise l’utilisation par aucune partie de la marque "Creative Commons" ou de toute autre marque ou logo de Creative Commons sans le consentement écrit préalable de Creative Commons. Cette restriction relative à l'utilisation des marques ne constitue pas une partie de nos licences publiques.
+
+Vous pouvez joindre Creative Commons via creativecommons.org.
