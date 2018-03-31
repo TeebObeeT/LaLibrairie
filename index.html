@@ -1,0 +1,12 @@
+---
+layout: default
+title: Guichet d'accueil de la librairie
+---
+
+<div class="home">
+  {% for post in site.pages %}
+    <h2>
+      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+    </h2>
+  {% endfor %}
+</div>
