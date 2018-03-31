@@ -2,5 +2,5 @@
 ---
 # Index de LaLibrairie
 
-* [Readme](README.html "Read Me")
-* [Test](Test.html "Test")
+* [Readme](README "Read Me")
+* [Test](Test "Test")
