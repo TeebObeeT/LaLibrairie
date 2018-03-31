@@ -5,11 +5,10 @@
 * [Readme](README "Read Me")
 * [Test](test "Test")
 
+## Test auto
 
-<ul>
   {% for page in site.pages %}
-    <li>
-      <a href="{{ page.url }}">{{ page.title }}</a>
-    </li>
+      [{{ page.url }}"]({{ page.title }})
   {% endfor %}
-</ul>
+
+## Fin
