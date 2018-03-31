@@ -1,1 +1,5 @@
-Ceci est juste un test d'un autre fichier sans front matter
+---
+---
+# Test
+
+Ceci est juste un test d'un autre fichier sans front matter.
