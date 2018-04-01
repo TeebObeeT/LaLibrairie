@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link href='https://fonts.googleapis.com/css?family=Architects+Daughter' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}" media="screen" type="text/css">
+    <link rel="stylesheet" href="{{ '/assets/css/print.css' | relative_url }}" media="print" type="text/css">
+    <link rel="shortcut icon" type="image/png" href="{{ "/img/favicon.png" | prepend: site.baseurl }}" >
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <title>{{ page.title}} [{{ site.title | default: site.github.repository_name }}]</title>
+  </head>
+
+  <body>
+    <header>
+      <div class="inner">
+        <a href="{{ site.baseurl }}">
+          <h1>{{ site.title | default: site.github.repository_name }}</h1>
+        </a>
+        <h2>{{ site.description | default: site.github.project_tagline }}</h2>
+
+      </div>
+    </header>
+
+    <div id="content-wrapper">
+      <div class="inner clearfix">
+        <section id="main-content">
+          <h1>{{page.title}}</h1>
+
+          <span class="post-meta">
+            <span class="date">{% if page.date %} {{ page.date | date: "%d/%m/%Y" }} - {% endif%}</span>
+            {% for p in page.categories limit:1 %}
+              {{ page.categories | sort | array_to_sentence_string:','  }}
+            {% endfor %}
+          </span>
+
+          {{ content }}
+        </section>
+
+        <aside id="sidebar">
+          {% if site.show_downloads %}
+            <a href="{{ site.github.zip_url }}" class="button">
+              <small>Download</small>
+              .zip file
+            </a>
+            <a href="{{ site.github.tar_url }}" class="button">
+              <small>Download</small>
+              .tar.gz file
+            </a>
+            {% endif %}
+
+            <div class="menu">
+              <a href="{{ site.baseurl }}/ingredients.html" class="button ingredients">Ingrédients</a>
+              <ul class='sub-menu'>
+                {% assign tags_list = site.tags | sort %}
+                {% if tags_list.first[0] == null %}
+                  {% for tag in tags_list %}
+                    <li>
+                          <a href="{{ site.baseurl }}/ingredients.html#{{ tag }}-ref" class='list-group-item'>
+                            {{ tag | capitalize }}
+                          </a>
+                          <span class='badge'>{{ site.tags[tag].size }}</span>
+                    </li>
+                  {% endfor %}
+                {% else %}
+                    {% for tag in tags_list %}
+                      <li>
+                          <a href="{{ site.baseurl }}/ingredients.html#{{ tag[0] }}-ref" class='list-group-item'>
+                            {{ tag[0] | capitalize }}
+                          </a>
+                          <span class='badge'>{{ tag[1].size }}</span>
+                        </li>
+                    {% endfor %}
+                {% endif %}
+                {% assign tags_list = nil %}
+              </ul>
+            </div>
+
+            <div class='menu'>
+              <a href="{{ site.baseurl }}/categories.html" class="button categories">Catégories</a>
+              <ul class='sub-menu'>
+                {% assign categories_list = site.categories | sort %}
+                {% if categories_list.first[0] == null %}
+                    {% for category in categories_list %}
+                      <li>
+                        <a href="{{ site.baseurl }}/categories.html#{{ category }}-ref" class='list-group-item'>
+                          {{ category }}
+                        </a>
+                        <span class='badge'>{{ site.categories[category].size }}</span>
+                      </li>
+                    {% endfor %}
+                {% else %}
+                    {% for category in categories_list %}
+                      <li>
+                        <a href="{{ site.baseurl }}/categories.html#{{ category[0] }}-ref" class='list-group-item'>
+                          {{ category[0] }}
+                        </a>
+                        <span class='badge'>{{ category[1].size }}</span>
+                      </li>
+                    {% endfor %}
+                {% endif %}
+                {% assign categories_list = nil %}
+              </ul>
+            </div>
+            <a href="{{ "/feed.xml" | prepend: site.baseurl }}" class="button rss">RSS</a>
+
+            {% if site.github.is_project_page %}
+              <a href="{{ site.github.repository_url }}" class="button git"><small>Voir sur</small> GitHub</a>
+            {% endif %}
+            {% if site.github.is_user_page %}
+              <a href="{{ site.github.repository_url }}" class="button git"><small>Suivez moi sur</small> GitHub</a>
+            {% endif %}
+
+          {% if site.github.is_project_page %}
+            <p class="repo-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> maintenu par <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</p>
+          {% endif %}
+
+          <p class='github-pages'>Page générée par <a href="https://pages.github.com">GitHub Pages</a>.</p>
+        </aside>
+      </div>
+    </div>
+  </body>
+</html>
