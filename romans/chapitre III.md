@@ -1,6 +1,7 @@
 ---
 title: La fin
 prev: chapitre II
+category: roman
 ---
 # FIN
 
