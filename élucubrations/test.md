@@ -1,6 +1,6 @@
 ---
 title: Elucubrations de tests (rien de créatif)
-categories: élucubration
+category: élucubration
 ---
 # Test
 
