@@ -2,7 +2,7 @@
 title: La suite
 next: chapitre III
 prev: chapitre I
-category: roman
+categories: roman
 ---
 # Suite
 

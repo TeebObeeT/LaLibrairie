@@ -1,7 +1,7 @@
 ---
 title: L'introduction
 next: chapitre II
-category: roman
+categories: roman
 ---
 # Début
 
