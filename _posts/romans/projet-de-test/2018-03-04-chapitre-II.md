@@ -3,6 +3,7 @@ title: La suite
 next: chapitre-III
 prev: chapitre-I
 categories: roman
+projet: Roman de test
 ---
 # Suite
 

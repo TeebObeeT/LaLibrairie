@@ -2,6 +2,7 @@
 title: La fin
 prev: chapitre-II
 categories: roman
+projet: Roman de test
 ---
 # FIN
 
