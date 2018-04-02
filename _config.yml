@@ -3,5 +3,6 @@ email: lalibrairie.teebo@spamgourmet.com
 safe: true
 
 # Build settings
-theme: jekyll-theme-slate
+remote_theme: ColeTownsend/Balzac-for-Jekyll
+
 markdown: kramdown
