@@ -34,9 +34,6 @@
     
     <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner">
-        {% for p in page.categories limit:1 %}
-          {{ page.categories | sort | array_to_sentence_string:','  }}
-        {% endfor %}
         {{ content }}
       </section>
       <section id="main_navigation" class="inner">

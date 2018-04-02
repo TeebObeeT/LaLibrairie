@@ -2,10 +2,6 @@
 layout: default
 title: Guichet d'accueil de la librairie
 ---
-{% for category in site.categories %}
-{{ category }}
-{% endfor %}
-
   {% for post in site.pages %}
     <h2>
       <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
