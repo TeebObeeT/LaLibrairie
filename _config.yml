@@ -1,1 +1,9 @@
+# Site settings
+email: lalibrairie.teebo@spamgourmet.com
+description: > # this means to ignore newlines until "baseurl:"
+  Recettes pour le quotidien, pour le bateau, pour les sorties de groupes, ...
+safe: true
+
+# Build settings
 theme: jekyll-theme-slate
+markdown: kramdown
