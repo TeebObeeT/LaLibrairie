@@ -3,7 +3,11 @@ layout: default
 title: Catégories
 ---
 <h1>Liste des catégories</h1>
-{{ site.categories }}
+
+{% for page in site.categories[roman] %}
+  {{ page.title }}
+{% endfor %}
+
 {% assign categories_list = site.categories | sort %}
 
 {% for category in categories_list %}
