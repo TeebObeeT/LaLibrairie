@@ -3,5 +3,5 @@ email: lalibrairie.teebo@spamgourmet.com
 safe: true
 
 # Build settings
-theme: hugoferreira/papyrus-theme
+remote_theme: hugoferreira/papyrus-theme
 markdown: kramdown
