@@ -37,7 +37,9 @@
         {{ content }}
       </section>
       <section id="main_navigation" class="inner">
-        {{ page.prev }} - {{ page.next }}
+        {% if page.prev %}<a href="{{ ./page.prev }}">Auparavant</a>{% endif %} 
+        {% if page.prev %}{% if page.next %} - {% endif %}{% endif %}
+        {% if page.next %}<a href="{{ ./page.next }}">Par la suite</a>{% endif %}
       </section>
     </div>
 
