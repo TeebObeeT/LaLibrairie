@@ -5,5 +5,5 @@ description: > # this means to ignore newlines until "baseurl:"
 safe: true
 
 # Build settings
-theme: jekyll-theme-cayman
+theme: jekyll-theme-merlot
 markdown: kramdown
