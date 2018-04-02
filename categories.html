@@ -2,6 +2,8 @@
 layout: default
 title: Catégories
 ---
+<h1>Liste des catégories</h1>
+{{ site.categories }}
 {% assign categories_list = site.categories | sort %}
 
 {% for category in categories_list %}
