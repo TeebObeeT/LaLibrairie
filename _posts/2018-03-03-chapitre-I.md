@@ -1,6 +1,6 @@
 ---
 title: L'introduction
-next: chapitre II
+next: chapitre-II
 categories: roman
 ---
 # Début

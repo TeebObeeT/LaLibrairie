@@ -1,6 +1,6 @@
 ---
 title: La fin
-prev: chapitre II
+prev: chapitre-II
 categories: roman
 ---
 # FIN

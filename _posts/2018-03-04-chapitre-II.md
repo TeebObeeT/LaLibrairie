@@ -1,7 +1,7 @@
 ---
 title: La suite
-next: chapitre III
-prev: chapitre I
+next: chapitre-III
+prev: chapitre-I
 categories: roman
 ---
 # Suite
