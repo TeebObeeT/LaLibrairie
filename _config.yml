@@ -3,5 +3,5 @@ email: lalibrairie.teebo@spamgourmet.com
 safe: true
 
 # Build settings
-remote_theme: ColeTownsend/Balzac-for-Jekyll
+theme: jekyll-theme-slate
 markdown: kramdown
