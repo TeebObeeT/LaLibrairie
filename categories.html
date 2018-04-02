@@ -4,14 +4,10 @@ title: Catégories
 ---
 <h1>Liste des catégories</h1>
 
-{% for page in site.categories.roman %}
-  {{ page.title }}
-{% endfor %}
-
 {% assign categories_list = site.categories | sort %}
 
 {% for category in categories_list %}
-  {{ category[0] }}
+  <h2>{{ category[0] }}</h2>
   <ul>
     {% assign pages_list = category[1] %}
 
