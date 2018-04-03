@@ -24,9 +24,15 @@ Nouvelles, romans, exercices, brouillons et autres vagabondages
 
 ## Reste à faire
 
+* tout transférer en collection
+
+* gérer les brouillons autrement ?
+
+* gestion des projets en sous répertoires
+
 * Index avec la structure suivante:
   * texte d'introduction
-  *  liste des catégories :
+  *  liste des collections :
      * opt: avec le nombre d'entrées dans chaque
      * lien vers la page associée
   * tag cloud/liste :

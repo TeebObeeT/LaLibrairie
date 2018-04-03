@@ -1,4 +1,4 @@
 ---
-permalink: /vagabondage/index.html
+permalink: /vagabondages/index.html
 layout: categoryPage
 ---
