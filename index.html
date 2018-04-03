@@ -9,10 +9,10 @@ title: Guichet d'accueil de la librairie
   {% endfor %} -->
 
 <!-- Liste des catégories avec lien direct  -->
-{% assign categories_list = site.categories | sort %}
+<!-- {% assign categories_list = site.categories | sort %}
 
 {% for category in categories_list %}
-  <h1><a href="categories/{{category[0]s }}">{{ category[0]s | capitalize }}</a></h1>
+  <h1><a href="categories/{{category[0] }}">{{ category[0] | capitalize }}</a></h1>
   <ul>
     {% assign pages_list = category[1] | sort:"date" %}
 
@@ -32,7 +32,7 @@ title: Guichet d'accueil de la librairie
     {% assign group = nil %}
     {% assign categories_list = nil %}
   </ul>
-{% endfor %}
+{% endfor %} -->
 
 
 <!-- autre tentative  -->
@@ -42,7 +42,7 @@ title: Guichet d'accueil de la librairie
 {% assign categories_list = site.categories %}
   {% if categories_list.first[0] == null %}
     {% for category in categories_list %}
-      <li><a href="categories/{{ category | pluralize }}">{{ category | capitalize }} ({{ site.tags[category].size }})</a></li>
+      <li><a href="/categories/{{ category | pluralize }}">{{ category | capitalize }} ({{ site.tags[category].size }})</a></li>
     {% endfor %}
   {% else %}
     {% for category in categories_list %}
