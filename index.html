@@ -53,7 +53,8 @@ title: Guichet d'accueil de la librairie
 
 <h1>Collections</h1>
 {% for collection in site.collections %}
-{{collection}}
+{{collection.label}}
+{% if collection.description %} {{collection.description}} {% endif %}
 {% endfor %}
 
 <!-- 

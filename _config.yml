@@ -41,6 +41,6 @@ defaults:
 collections:
   vagabondages:
     output: true
-    
+    description: Vagabondages en vrac
 
     
