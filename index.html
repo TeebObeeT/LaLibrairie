@@ -7,3 +7,11 @@ title: Guichet d'accueil de la librairie
       <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
     </h2>
   {% endfor %}
+
+  <ul>
+    {% directory path: categories exclude: private %}
+      <li>
+{{ file.name }}
+      </li>
+    {% enddirectory %}
+  </ul>
