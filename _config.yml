@@ -37,16 +37,10 @@ defaults:
       path: "_posts/vagabondages" 
     values:
       category: "vagabondage"
+
 collections:
   vagabondages:
     output : true
-    description: Des textes en vracs, des pensées, des jeux, des phrases de quelque sorte...Sans buts, sans ambitions, sans futurs, sans cohérence
-    default:
-      - scope:
-        path: ""
-        type: vagabondages
-      values:
-        layout: default
-        category: vagabondage 
+    
 
     
