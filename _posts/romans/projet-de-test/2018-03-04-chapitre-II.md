@@ -3,6 +3,7 @@ title: La suite
 nxt: chapitre-III
 prv: chapitre-I
 projet: Roman de test
+category: brouillon
 ---
 # Suite
 
