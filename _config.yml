@@ -40,7 +40,7 @@ defaults:
 
 collections:
   vagabondages:
-    output : true
+    output: true
     
 
     
