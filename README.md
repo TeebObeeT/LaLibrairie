@@ -12,7 +12,7 @@ Nouvelles, romans, exercices, brouillons et autres vagabondages
 ### Catégories
 
 * Vagabondages : textes en vracs
-* Brouillons : ben, un truc pas fini, à retravailler, ...
+* Brouillons : ben, un truc pas fini, à retravailler, ... Peuvent être rangés dans n'importe quel répertoire
 * Romans : On ne sait jamais, si jamais j'arrive à me structurer et avancer, avec la notion de projet pour distinguer mes différentes tentatives ?
 * Nouvelles : Des textes publiés d'un bloc
-* Exercices : Des "réponses" à des exercices d'écriture.
+* Exercices : Des "réponses" à des exercices d'écriture. Les "projets" marquant ici les sources d'exercices.

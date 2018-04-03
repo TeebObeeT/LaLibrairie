@@ -2,7 +2,13 @@
 email: lalibrairie.teebo@spamgourmet.com
 safe: true
 permalink: /:categories/:title
-description: ""
 # Build settings
 theme: jekyll-theme-slate
 markdown: kramdown
+
+defaults:
+  -
+    scope:
+      path: "categories" # an empty string here means all files in the project
+    values:
+      layout: "categoryPage"
