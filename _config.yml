@@ -2,6 +2,7 @@
 email: lalibrairie.teebo@spamgourmet.com
 safe: true
 permalink: /:categories/:title
+description: [I'm an inline-style link](https://www.google.com)
 # Build settings
 theme: jekyll-theme-slate
 markdown: kramdown
