@@ -46,7 +46,7 @@ title: Guichet d'accueil de la librairie
     {% endfor %}
   {% else %}
     {% for category in categories_list %}
-      <li><a href="/categories/{{ category | pluralize }}">{{ category[0] | capitalize }} ({{ category[1].size }})</a></li>
+      <li><a href="/categories/{{ category[0] | pluralize }}">{{ category[0] | capitalize }} ({{ category[1].size }})</a></li>
     {% endfor %}
   {% endif %}
 {% assign categories_list = nil %}
