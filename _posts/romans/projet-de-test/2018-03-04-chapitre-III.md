@@ -1,6 +1,6 @@
 ---
 title: La fin
-prev: chapitre-II
+prv: chapitre-II
 categories: roman
 projet: Roman de test
 ---

@@ -1,6 +1,6 @@
 ---
 title: L'introduction
-next: chapitre-II
+nxt: chapitre-II
 categories: roman
 projet: Roman de test
 ---

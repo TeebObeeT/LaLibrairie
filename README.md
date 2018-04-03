@@ -6,5 +6,5 @@ Nouvelles, romans, exercices, essais, tentatives, brouillons et autres vagabonda
 
 ### Front matter
 
-* prev: chemin relatif de l'élément précédent pour la navigation (et éventuel scripting plus tard)
-* next: chemin relatif de l'élément suivant pour la navigation (et éventuel scripting plus tard)
+* prv: chemin relatif de l'élément précédent pour la navigation (et éventuel scripting plus tard)
+* nxt: chemin relatif de l'élément suivant pour la navigation (et éventuel scripting plus tard)
