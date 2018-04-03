@@ -38,21 +38,24 @@ title: Guichet d'accueil de la librairie
 <!-- autre tentative  -->
 
 <h1>Ce que vous trouverez sur ce site</h2>
-  
+
 {% assign categories_list = site.categories %}
   {% if categories_list.first[0] == null %}
     {% for category in categories_list %}
       <h2>Des <a href="./categories/{{ category }}s">{{ category | capitalize }}s</a> ({{ site.tags[category].size }})</h2>
-      {{category.content}}
     {% endfor %}
   {% else %}
     {% for category in categories_list %}
       <h2>Des <a href="./categories/{{ category[0] }}s">{{ category[0] | capitalize }}s</a> ({{ category[1].size }})</h2>
-      {{category.content}}
     {% endfor %}
   {% endif %}
 {% assign categories_list = nil %}
-</ul>
+
+<h1>Collections</h1>
+{% for collection in site.collections %}
+{{collection}}
+{% endfor %}
+
 <!-- 
 {% for tag in site.categories %}
   <h3 id="{{ tag[0] }}">{{ tag[0] | capitalize }}</h3>
