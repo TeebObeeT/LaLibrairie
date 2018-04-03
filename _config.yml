@@ -1,7 +1,7 @@
 # Site settings
 email: lalibrairie.teebo@spamgourmet.com
 safe: true
-permalink: /:categories/:title:output_ext
+permalink: /:categories/:title
 # Build settings
 theme: jekyll-theme-slate
 markdown: kramdown

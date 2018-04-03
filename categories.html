@@ -15,7 +15,7 @@ title: Catégories
           {% if page.url == node.url %}
           <li class="active"><a href="{{ site.baseurl}}/{{ node.url }}" class="active">{{node.title}}</a>{% if node.projet %} - {{node.projet}} {% endif %}</li>
           {% else %}
-          <li><a href="{{ site.baseurl}}/{{node.url}}">{{node.title}}</a></li>
+          <li><a href="{{ site.baseurl}}/{{node.url}}">{{node.title}}</a>{% if node.projet %} - {{node.projet}} {% endif %}</li>
           {% endif %}
         {% endif %}
       {% endif %}
