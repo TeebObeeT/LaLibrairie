@@ -1,7 +1,6 @@
 ---
 title: L'introduction
 nxt: chapitre-II
-category: roman
 projet: Roman de test
 ---
 # Début

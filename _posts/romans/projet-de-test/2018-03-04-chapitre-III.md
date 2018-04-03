@@ -1,7 +1,6 @@
 ---
 title: La fin
 prv: chapitre-II
-category: roman
 projet: Roman de test
 ---
 # FIN

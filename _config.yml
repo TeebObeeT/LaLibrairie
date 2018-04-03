@@ -9,6 +9,31 @@ markdown: kramdown
 defaults:
   -
     scope:
-      path: "categories" # an empty string here means all files in the project
+      path: "categories" 
     values:
       layout: "categoryPage"
+  -
+    scope:
+      path: "_posts" 
+    values:
+      layout: "default"
+  -
+    scope:
+      path: "_posts/exercices" 
+    values:
+      category: "exercice"
+  -
+    scope:
+      path: "_posts/nouvelles" 
+    values:
+      category: "nouvelle"
+  -
+    scope:
+      path: "_posts/romans" 
+    values:
+      category: "roman"
+  -
+    scope:
+      path: "_posts/vagabondages" 
+    values:
+      category: "vagabondage"
