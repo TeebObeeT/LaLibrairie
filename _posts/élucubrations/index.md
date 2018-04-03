@@ -1,0 +1,4 @@
+---
+layout: categoryPage
+category: élucubrations
+---
