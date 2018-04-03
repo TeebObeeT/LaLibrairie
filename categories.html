@@ -2,12 +2,10 @@
 layout: default
 title: Catégories
 ---
-<h1>Liste des catégories</h1>
-
 {% assign categories_list = site.categories | sort %}
 
 {% for category in categories_list %}
-  <h2>{{ category[0] }}</h2>
+  <h1>{{ category[0] | capitalize }}</h1>
   <ul>
     {% assign pages_list = category[1] | sort:"date" %}
 
@@ -15,7 +13,7 @@ title: Catégories
       {% if node.title != null %}
         {% if group == null or group == node.group %}
           {% if page.url == node.url %}
-          <li class="active"><a href="{{ site.baseurl}}/{{ node.url }}" class="active">{{node.title}}</a>{% if page.projet %} - {{page.projet}} {% endif %}</li>
+          <li class="active"><a href="{{ site.baseurl}}/{{ node.url }}" class="active">{{node.title}}</a>{% if node.projet %} - {{node.projet}} {% endif %}</li>
           {% else %}
           <li><a href="{{ site.baseurl}}/{{node.url}}">{{node.title}}</a></li>
           {% endif %}
