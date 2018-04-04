@@ -25,7 +25,7 @@ Nouvelles, romans, exercices, brouillons et autres vagabondages
 ## Reste à faire
 
 * tout transférer en collection
-  * rework categoryPage to reflect collection
+  * rework categoryPage to reflect collection 
 
 * gérer les brouillons autrement ?
 
