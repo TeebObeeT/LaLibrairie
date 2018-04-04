@@ -37,9 +37,9 @@ title: Guichet d'accueil de la librairie
 
 <!-- autre tentative  -->
 
-<h1>Ce que vous trouverez sur ce site</h2>
+<h2>Ce que vous trouverez sur ce site</h2>
 
-{% assign categories_list = site.categories %}
+<!-- {% assign categories_list = site.categories %}
   {% if categories_list.first[0] == null %}
     {% for category in categories_list %}
       <h2>Des <a href="./categories/{{ category }}s">{{ category | capitalize }}s</a> ({{ site.tags[category].size }})</h2>
@@ -49,12 +49,11 @@ title: Guichet d'accueil de la librairie
       <h2>Des <a href="./categories/{{ category[0] }}s">{{ category[0] | capitalize }}s</a> ({{ category[1].size }})</h2>
     {% endfor %}
   {% endif %}
-{% assign categories_list = nil %}
+{% assign categories_list = nil %} -->
 
-<h1>Collections</h1>
 {% for collection in site.collections %}
 {% if collection.description %} 
-  <h2>Des <a href="./{{ collection.label }}">{{collection.label}}</a> </h2>
+  <h3>Des <a href="./{{ collection.label }}">{{collection.label}}</a> </h3>
   <i>{{collection.description}} - {{collection.docs.size}}</i>
 {% endif %}
 {% endfor %}
