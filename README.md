@@ -20,14 +20,9 @@ Nouvelles, romans, exercices, brouillons et autres vagabondages
 ### Layout
 
 * default : par défaut pour les postes, base des autres layout.
-* categoryPage : pour afficher les résultats d'une catégorie - par défaut pour les pages du répertoire "categories".
+* collection : pour afficher les résultats d'une collection - par défaut pour les pages du répertoire "collections".
 
 ## Reste à faire
-
-* tout transférer en collection
-  * rework categoryPage to reflect collection 
-
-* gérer les brouillons autrement ?
 
 * gestion des projets en sous répertoires
 
@@ -39,13 +34,13 @@ Nouvelles, romans, exercices, brouillons et autres vagabondages
   * tag cloud/liste :
     * opt: avec le nombre d'entrées dans chaque
 
-* Rework page categoryPage avec la structure suivante:
+* Rework collection layout avec la structure suivante:
   * Titre
   * Liste des projets
   * Entrées dans chaque projet
   * Trier par "ordre logique" dans chaque projet ? (ajout d'un front matter nécessaire ? Jeu avec la date?)
 
-* Création d'un layout page projet avec la structure suivante:
+* Création d'une page projet avec la structure suivante:
   * Titre
   * Mot d'introduction sur le projet ("préface")
   * Liste des posts concernés dans l'ordre logique
@@ -53,3 +48,5 @@ Nouvelles, romans, exercices, brouillons et autres vagabondages
 * Menu dans le layout par défaut sous forme de texte d'introduction à la place du texte d'introduction
 
 * CSS : Réduire le bandeau du haut en cas de scroll mais le garder en permanence ?
+
+* Rework CSS (couleur de lien, pas d'emphase qui marche)
