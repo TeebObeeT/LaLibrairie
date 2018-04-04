@@ -1,0 +1,3 @@
+---
+permalink: /exercices/index.html
+---

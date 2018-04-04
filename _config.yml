@@ -9,38 +9,38 @@ markdown: kramdown
 defaults:
   -
     scope:
-      path: "categories" 
+      path: "collections" 
     values:
-      layout: "categoryPage"
-  -
-    scope:
-      path: "_posts" 
-    values:
-      layout: "default"
-  -
-    scope:
-      path: "_posts/exercices" 
-    values:
-      category: "exercice"
-  -
-    scope:
-      path: "_posts/nouvelles" 
-    values:
-      category: "nouvelle"
-  -
-    scope:
-      path: "_posts/romans" 
-    values:
-      category: "roman"
-  -
-    scope:
-      path: "_posts/vagabondages" 
-    values:
-      category: "vagabondage"
+      layout: "collection"
+
 
 collections:
   vagabondages:
     output: true
-    description: Vagabondages en vrac
+    description: >
+    Des textes en vracs, des pensées amusantes, des tentatives d'essais, des promenages littéraires sans prétentions, ni tête, ni âne, 
+    qui passent du coq au vin.
 
-    
+  brouillons:
+    output: true
+    description: >
+    Des débuts sans fins, des fins sans débuts, des textes tellement pas fini que j'ose à peine les afficher mais dont je pourrais avoir besoin un jour ou, 
+    qui sait, peut-être que l'inspiration pour les finir me tombera dessus.
+
+  exercices:
+    output: true
+    description: >
+    Des écrits en réponse aux exercices d'écritures de diverses sources, rangés selon ces sources et d'un intérêt variable pour le lecteur.
+
+  nouvelles:
+    output: true
+    description: >
+    Des histoires suffisamment courtes pour se suffir à elles-mêmes, sans suites ni préambules. Les textes de cette catégories sont considérés comme finis,
+    mais parfois, ils peuvent continuer leur vie quand même...
+
+  romans:
+    output: true
+    description: >
+    La catégorie restera sans doute vide longtemps. Cher lecteur, cherche plutôt dans les brouillons des ébauches de tentatives dans mes brouillons. 
+    Néanmoins, si certains chapitres prennent suffisamment forme pour mériter de rentrer dans cette section, certains débuts de romans pourrait se 
+    retrouver ici, rangés par projet. Voir la page de chaque projet pour en savoir plus sur l'état d'icelui.

@@ -1,0 +1,3 @@
+---
+permalink: /nouvelles/index.html
+---
