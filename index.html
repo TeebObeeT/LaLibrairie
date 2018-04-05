@@ -18,11 +18,11 @@ Si certains écrits prennent une bonne ampleur, je chercherai peut-être à leur
 {% endfor %}
 
 
-{% for tag in site.tags %}
-{{tag}}
-    <!-- <li style="font-size: {{ tag | last | size | times: 100 | divided_by: site.tags.size | plus:70 }}%">
+{% assign tags_list = site.tags | sort %}
+{% for tag in tags_list %}
+    <li style="font-size: {{ tag | last | size | times: 100 | divided_by: site.tags.size | plus:70 }}%">
         <a href="/{{ tag | first | slugize }}/">
             {{ tag | first }}
         </a>
-    </li> -->
+    </li>
 {% endfor %}
