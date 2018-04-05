@@ -28,9 +28,6 @@ Nouvelles, romans, exercices, brouillons et autres vagabondages
 
 * Index avec la structure suivante:
   * texte d'introduction
-  *  liste des collections :
-     * opt: avec le nombre d'entrées dans chaque
-     * lien vers la page associée
   * tag cloud/liste :
     * opt: avec le nombre d'entrées dans chaque
 

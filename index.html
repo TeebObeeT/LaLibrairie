@@ -17,6 +17,16 @@ Si certains écrits prennent une bonne ampleur, je chercherai peut-être à leur
 {% endif %}
 {% endfor %}
 
+
+{% for tag in site.tags %}
+    <li style="font-size: {{ tag | last | size | times: 100 | divided_by: site.tags.size | plus:70 }}%">
+        <a href="/{{ tag | first | slugize }}/">
+            {{ tag | first }}
+        </a>
+    </li>
+{% endfor %}
+
+
 <!-- 
 {% for tag in site.categories %}
   <h3 id="{{ tag[0] }}">{{ tag[0] | capitalize }}</h3>
