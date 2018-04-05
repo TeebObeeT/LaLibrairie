@@ -24,10 +24,8 @@ Nouvelles, romans, exercices, brouillons et autres vagabondages
 
 ## Reste à faire
 
-* gestion des projets en sous répertoires
 
 * Index avec la structure suivante:
-  * texte d'introduction
   * tag cloud/liste :
     * opt: avec le nombre d'entrées dans chaque
 
@@ -37,6 +35,10 @@ Nouvelles, romans, exercices, brouillons et autres vagabondages
   * Entrées dans chaque projet
   * Trier par "ordre logique" dans chaque projet ? (ajout d'un front matter nécessaire ? Jeu avec la date?)
 
+* Rework CSS (couleur de lien, pas d'emphase qui marche)
+
+* gestion des projets en sous répertoires
+
 * Création d'une page projet avec la structure suivante:
   * Titre
   * Mot d'introduction sur le projet ("préface")
@@ -45,5 +47,3 @@ Nouvelles, romans, exercices, brouillons et autres vagabondages
 * Menu dans le layout par défaut sous forme de texte d'introduction à la place du texte d'introduction
 
 * CSS : Réduire le bandeau du haut en cas de scroll mais le garder en permanence ?
-
-* Rework CSS (couleur de lien, pas d'emphase qui marche)
