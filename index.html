@@ -19,27 +19,10 @@ Si certains écrits prennent une bonne ampleur, je chercherai peut-être à leur
 
 
 {% for tag in site.tags %}
-    <li style="font-size: {{ tag | last | size | times: 100 | divided_by: site.tags.size | plus:70 }}%">
+{{tag}}
+    <!-- <li style="font-size: {{ tag | last | size | times: 100 | divided_by: site.tags.size | plus:70 }}%">
         <a href="/{{ tag | first | slugize }}/">
             {{ tag | first }}
         </a>
-    </li>
+    </li> -->
 {% endfor %}
-
-
-<!-- 
-{% for tag in site.categories %}
-  <h3 id="{{ tag[0] }}">{{ tag[0] | capitalize }}</h3>
-  <ul>
-    {% assign pages_list = tag[1] %}
-    {% for post in pages_list %}
-      {% if post.title != null %}
-      {% if group == null or group == post.group %}
-      <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}<span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%B %d, %Y" }}</time></span></a></li>
-      {% endif %}
-      {% endif %}
-    {% endfor %}
-    {% assign pages_list = nil %}
-    {% assign group = nil %}
-  </ul>
-{% endfor %} -->

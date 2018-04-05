@@ -2,7 +2,9 @@
 title: La fin
 prv: chapitre-II
 projet: Roman de test
-tag: t1, t2
+tags: 
+    - t1
+    - t2
 ---
 # FIN
 

@@ -24,7 +24,6 @@ Nouvelles, romans, exercices, brouillons et autres vagabondages
 
 ## Reste à faire
 
-
 * Index avec la structure suivante:
   * tag cloud/liste :
     * opt: avec le nombre d'entrées dans chaque
