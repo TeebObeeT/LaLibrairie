@@ -6,11 +6,6 @@ layout: default
 
 <ul>
 {% for p in site.[page.title] %}
-path: {{p.path}}
-url: {{p.url}}
-collection: {{p.collection}}
-site base url: {{site.baseurl}}
-site url: {{site.url}}
   <li>
     <a href="{{site.url}}/{{ p.url }}">{{ p.title }}</a>
   </li>
