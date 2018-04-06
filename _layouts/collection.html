@@ -6,8 +6,13 @@ layout: default
 
 <ul>
 {% for p in site.[page.title] %}
+path: {{p.path}}
+url: {{p.url}}
+collection: {{p.collection}}
+site base url: {{site.baseurl}}
+site url: {{site.url}}
   <li>
-    <a href="{{ p.url }}">{{ p.title }}</a>
+    <a href="./{{ p.url }}">{{ p.title }}</a>
   </li>
 {% endfor %}
 </ul>
