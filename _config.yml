@@ -1,7 +1,7 @@
 # Site settings
 email: lalibrairie.teebo@spamgourmet.com
 safe: true
-permalink: /:categories/:title
+# permalink: /:categories/:title
 # Build settings
 theme: jekyll-theme-slate
 markdown: kramdown
@@ -17,29 +17,34 @@ defaults:
 collections:
   vagabondages:
     output: true
+    permalink: pretty
     description: >
       Des textes en vracs, des pensées amusantes, des tentatives d'essais, des promenages littéraires sans prétentions, ni tête, ni âne, 
       qui passent du coq au vin.
 
   brouillons:
     output: true
+    permalink: pretty
     description: >
       Des débuts sans fins, des fins sans débuts, des textes tellement pas fini que j'ose à peine les afficher mais dont je pourrais avoir besoin un jour ou, 
       qui sait, peut-être que l'inspiration pour les finir me tombera dessus.
 
   exercices:
     output: true
+    permalink: pretty
     description: >
       Des écrits en réponse aux exercices d'écritures de diverses sources, rangés selon ces sources et d'un intérêt variable pour le lecteur.
 
   nouvelles:
     output: true
+    permalink: pretty
     description: >
       Des histoires suffisamment courtes pour se suffir à elles-mêmes, sans suites ni préambules. Les textes de cette catégories sont considérés comme finis,
       mais parfois, ils peuvent continuer leur vie quand même...
 
   romans:
     output: true
+    permalink: pretty
     description: >
       La catégorie restera sans doute vide longtemps. Cher lecteur, cherche plutôt dans les brouillons des ébauches de tentatives dans mes brouillons. 
       Néanmoins, si certains chapitres prennent suffisamment forme pour mériter de rentrer dans cette section, certains débuts de romans pourrait se 
