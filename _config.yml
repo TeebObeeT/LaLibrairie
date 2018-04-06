@@ -2,6 +2,7 @@
 email: lalibrairie.teebo@spamgourmet.com
 safe: true
 # permalink: /:categories/:title
+baseurl: "/LaLibrairie" # the subpath of your site, e.g. /blog
 # Build settings
 theme: jekyll-theme-slate
 markdown: kramdown
