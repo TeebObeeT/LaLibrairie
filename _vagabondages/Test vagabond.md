@@ -1,7 +1,5 @@
 ---
 title: Elucubrations de tests (rien de créatif)
-tags:
-    - t1
 ---
 # Test
 

@@ -24,9 +24,7 @@ Nouvelles, romans, exercices, brouillons et autres vagabondages
 
 ## Reste à faire
 
-* Index avec la structure suivante:
-  * tag cloud/liste :
-    * opt: avec le nombre d'entrées dans chaque
+* gestion des projets en sous répertoires
 
 * Rework collection layout avec la structure suivante:
   * Titre
@@ -35,8 +33,11 @@ Nouvelles, romans, exercices, brouillons et autres vagabondages
   * Trier par "ordre logique" dans chaque projet ? (ajout d'un front matter nécessaire ? Jeu avec la date?)
 
 * Rework CSS (couleur de lien, pas d'emphase qui marche)
+  * italic
+  * changer de couleur pour les liens
+  * font générale ?
+  * règle de "publication" ou epub ?
 
-* gestion des projets en sous répertoires
 
 * Création d'une page projet avec la structure suivante:
   * Titre
@@ -46,3 +47,5 @@ Nouvelles, romans, exercices, brouillons et autres vagabondages
 * Menu dans le layout par défaut sous forme de texte d'introduction à la place du texte d'introduction
 
 * CSS : Réduire le bandeau du haut en cas de scroll mais le garder en permanence ?
+
+* Générateur de epub
