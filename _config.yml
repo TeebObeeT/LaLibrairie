@@ -13,6 +13,11 @@ defaults:
       path: "collections" 
     values:
       layout: "collection"
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
 
 
 collections:
