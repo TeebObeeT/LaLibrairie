@@ -6,7 +6,7 @@ layout: default
 
 {% assign current_project = "null" %}
 
-{% assign items site.[page.title] | group_by: 'project' %}
+{% assign items = site.[page.title] | group_by: 'project' %}
 {{ items | inspect }}
 {% for entry in items %}
 
