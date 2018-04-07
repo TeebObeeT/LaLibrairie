@@ -4,13 +4,13 @@ layout: default
 
 <h1>{{ page.title | capitalize }}</h1>
 {{ page.content }}
-{% for p in site.projects %}
-  {{ p }}
+{% for t in site.tags %}
+{{ t }}
 {% endfor %}
 
 <ul>
 {% for p in site.[page.collection] %}
-  {% if p.project == page.title %}
+  {% if p.tag == page.title %}
     <li>
       <a href="{{site.url}}/{{ p.url }}">{{ p.title }}</a>
     </li>

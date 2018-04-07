@@ -14,7 +14,7 @@ Si certains écrits prennent une bonne ampleur, je chercherai peut-être à leur
   <h3>Des <a href="./{{ collection.label }}">{{collection.label}}</a> </h3>
   <i>
     {% if collection.docs.size > 1 %}({{ collection.docs.size }} entrées){% endif %}
-    {% if collection.docs.size > 0 %}({{ collection.docs.size }} entrée){% endif %}
+    {% if collection.docs.size == 1 %}({{ collection.docs.size }} entrée){% endif %}
   </i>
   <p>{{ collection.description }} </p>
 {% endif %}
