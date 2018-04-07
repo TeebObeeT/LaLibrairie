@@ -2,7 +2,7 @@
 title: La suite
 nxt: chapitre III
 prv: chapitre I
-tags: "Roman de test"
+project: "Roman de test"
 ---
 # Suite
 

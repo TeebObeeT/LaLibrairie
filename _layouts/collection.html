@@ -4,6 +4,16 @@ layout: default
 
 <h1>{{ page.title | capitalize }}</h1>
 
+{{ assign items_grouped = site.[page.title] | group_by:"project" }}
+
+{% for group in items_grouped %}
+    <h3>{{group.project}}</h3>
+        {% for item in group.items %}
+            <p>{{item.title}}</p>
+        {% endfor %}
+    {% endfor %}
+
+
 <ul>
 {% for p in site.[page.title] %}
   <li>

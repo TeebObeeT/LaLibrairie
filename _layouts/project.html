@@ -5,18 +5,9 @@ layout: default
 <h1>{{ page.title | capitalize }}</h1>
 {{ page.content }}
 
-<h3>tags</h3>
-<ul class="tags">
-    {% for tag in site.tags %}
-      {% assign t = tag | first %}
-     <li> {{ t }} </li>
-    {% endfor %}
-    </ul>
-    
-
 <ul>
 {% for p in site.[page.collection] %}
-  {% if p.tags == page.title %}
+  {% if p.project == page.title %}
     <li>
       <a href="{{site.url}}/{{ p.url }}">{{ p.title }}</a>
     </li>
