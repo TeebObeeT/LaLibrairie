@@ -4,16 +4,20 @@ layout: default
 
 <h1>{{ page.title | capitalize }}</h1>
 
-<h3>test...</h3>
 <!-- {{ assign items_grouped = site.romans | group_by: 'project' }} -->
-{% for group in site.romans | group_by:"project" %}
+<!-- {% assign current_project == current_project} -->
+
+{% for entry in site.[page.title] | sort:"project" %}
+{% if entry.project != current_project}
+  <h3>{{ entry.project }}</h3>
+  {% assign current_project = entry.project}
+{% endif %}
+<h4>{{ item.title }}</h4>
 {{ group.project }}
-<hr/>
     <h3>{{group.name}}</h3>
         {% for item in group.items %}
             <p>{{ item.title }}</p>
-        {% endfor %}
-    {% endfor %}
+    <hr/>
 
 
 <ul>
