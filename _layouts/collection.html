@@ -6,15 +6,17 @@ layout: default
 
 {% for entry in site.[page.title] | sort:"project" %}
   {% if entry.project != current_project %}
-    <h3>{{ entry.project }}</h3>
+    </ul>
+    <h2><a href="{{site.url}}/{{ page.title }}/{{ entry.project }}">{{ entry.project }}</a></h2>
     {% assign current_project = entry.project %}
+    <ul>
   {% endif %}
 
-  <h4>{{ entry.title }}</h4>
+  <li><a href="{{site.url}}/{{ entry.url }}">{{ entry.title }}{{ entry.project }}</a></li>
 
 {% endfor %}
 
-<hr/>
+
 
 
 <ul>

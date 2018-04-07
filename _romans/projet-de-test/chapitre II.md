@@ -2,7 +2,7 @@
 title: La suite
 nxt: chapitre III
 prv: chapitre I
-project: "Roman de test"
+project: One
 ---
 # Suite
 
