@@ -12,7 +12,10 @@ Si certains écrits prennent une bonne ampleur, je chercherai peut-être à leur
 {% for collection in site.collections %}
 {% if collection.description %} 
   <h3>Des <a href="./{{ collection.label }}">{{collection.label}}</a> </h3>
-  ({{collection.docs.size | pluralize "entrée"}})
-  <p><i>{{collection.description}} </i></p>
+  <i>
+    {% if collection.docs.size > 1 %}({{ collection.docs.size }} entrées){% endif %}
+    {% if collection.docs.size > 0 %}({{ collection.docs.size }} entrée){% endif %}
+  </i>
+  <p>{{ collection.description }} </p>
 {% endif %}
 {% endfor %}
