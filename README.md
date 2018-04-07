@@ -27,11 +27,8 @@ Nouvelles, romans, exercices, brouillons et autres vagabondages
 ### Bloqueurs
 
 * Rework CSS (couleur de lien, pas d'emphase qui marche)
-  * italic
   * changer de couleur pour les liens
-  * font générale ?
-  * règle de "publication" ou epub ?
-
+  
 ### Pour plus tard
 
 * Menu dans le layout par défaut sous forme de texte d'introduction à la place du texte d'introduction
