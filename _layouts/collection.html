@@ -5,29 +5,21 @@ layout: default
 <h1>{{ page.title | capitalize }}</h1>
 
 {% assign groups = site.[page.title] | group_by: 'project' %}
-
-<hr/>
-{{ groups | inspect }}
-<hr/>
-
 {% for g in groups %}
-
-  <hr/>
-  {{ g | inspect }}
-  <hr/>
-
   <h2><a href="{{site.url}}/{{ page.title }}/{{ g.name }}">{{ g.name }}</a></h2>
   <ul>
     {% for i in g.items %}
-      <li><a href="{{site.url}}/{{ i.url }}">{{i.title}}</a></li>
+      {% if g.layout != "project" %}
+        <li><a href="{{site.url}}/{{ i.url }}">{{i.title}}</a></li>
+        {% endif %}
     {% endfor %}
   </ul>
 {% endfor %}
 
-<ul>
+<!-- <ul>
 {% for p in site.[page.title] %}
   <li>
     <a href="{{site.url}}/{{ p.url }}">{{ p.title }}{{ p.project }}</a>
   </li>
 {% endfor %}
-</ul>
+</ul> -->
