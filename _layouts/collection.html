@@ -4,9 +4,13 @@ layout: default
 
 <h1>{{ page.title | capitalize }}</h1>
 
-{% for entry in site.[page.title] | sort:"project" %}
+{% assign current_project = "null" %}
+
+{% for entry in site.[page.title] | sort: 'project' %}
   {% if entry.project != current_project %}
-    </ul>
+    
+    {% if current_project != "null" %}</ul>{% endif %}
+
     <h2><a href="{{site.url}}/{{ page.title }}/{{ entry.project }}">{{ entry.project }}</a></h2>
     {% assign current_project = entry.project %}
     <ul>
@@ -15,7 +19,8 @@ layout: default
   <li><a href="{{site.url}}/{{ entry.url }}">{{ entry.title }}{{ entry.project }}</a></li>
 
 {% endfor %}
-
+{% if current_project != "null" %}</ul>{% endif %}
+    
 
 
 

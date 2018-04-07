@@ -24,13 +24,7 @@ Nouvelles, romans, exercices, brouillons et autres vagabondages
 
 ## Reste à faire
 
-* gestion des projets en sous répertoires
-
-* Rework collection layout avec la structure suivante:
-  * Titre
-  * Liste des projets
-  * Entrées dans chaque projet
-  * Trier par "ordre logique" dans chaque projet ? (ajout d'un front matter nécessaire ? Jeu avec la date?)
+### Bloqueurs
 
 * Rework CSS (couleur de lien, pas d'emphase qui marche)
   * italic
@@ -38,11 +32,10 @@ Nouvelles, romans, exercices, brouillons et autres vagabondages
   * font générale ?
   * règle de "publication" ou epub ?
 
+* [Page projet] Liste des posts concernés dans l'ordre logique
+* [Page collection] Liste des posts projets dans l'ordre logique
 
-* Création d'une page projet avec la structure suivante:
-  * Titre
-  * Mot d'introduction sur le projet ("préface")
-  * Liste des posts concernés dans l'ordre logique
+### Pour plus tard
 
 * Menu dans le layout par défaut sous forme de texte d'introduction à la place du texte d'introduction
 
