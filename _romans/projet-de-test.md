@@ -1,7 +1,7 @@
 ---
 title: Projet de test
 permalink: /romans/projet-de-test/index.html
-layout: projet
+layout: project
 ---
 
 Voici la description de ce projet:
@@ -9,4 +9,3 @@ Voici la description de ce projet:
 * C'est un projet
 * C'est un test
 * C'est sans intérêt aucun.
-
