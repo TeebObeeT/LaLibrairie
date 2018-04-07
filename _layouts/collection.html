@@ -4,8 +4,6 @@ layout: default
 
 <h1>{{ page.title | capitalize }}</h1>
 
-{% assign current_project = "null" %}
-
 {% assign groups = site.[page.title] | group_by: 'project' %}
 
 <hr/>
@@ -25,7 +23,7 @@ layout: default
       {{ i | inspect }}
       <hr/>
     
-      <a href="{{site.url}}/{{ i.url }}">{{i.title}}</a>
+      <li><a href="{{site.url}}/{{ i.url }}">{{i.title}}</a></li>
     {% endfor %}
   </ul>
 {% endfor %}
