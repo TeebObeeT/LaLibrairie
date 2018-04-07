@@ -5,11 +5,11 @@ layout: default
 <h1>{{ page.title | capitalize }}</h1>
 
 <h3>test...</h3>
-{{ assign items_grouped = site.romans | group_by: 'project' }}
-{% for group in items_grouped %}
+<!-- {{ assign items_grouped = site.romans | group_by: 'project' }} -->
+{% for group in site.romans | group_by: 'project' %}
     <h3>{{group.name}}</h3>
         {% for item in group.items %}
-            <p>{{item.title}}</p>
+            <p>{{ item.title }}</p>
         {% endfor %}
     {% endfor %}
 
