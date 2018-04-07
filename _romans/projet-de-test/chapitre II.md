@@ -1,9 +1,11 @@
 ---
-title: L'introduction
-nxt: chapitre-II
-projet: Roman de test
+title: La suite
+nxt: chapitre III
+prv: chapitre I
+project: Roman de test
+category: brouillon
 ---
-# Début
+# Suite
 
 Ceci est juste un test d'un autre fichier sans front matter. Ce qu'il faudrait vraiment, c'est un vrai grand texte qui prend plein de place pour voir comment se comporte le thème.
 
