@@ -11,10 +11,15 @@ Si certains écrits prennent une bonne ampleur, je chercherai peut-être à leur
 
 {% for collection in site.collections %}
 {% if collection.description %} 
-  <h3>Des {% if collection.docs.size > 0 %}<a href="./{{ collection.label }}">{{collection.label}}</a>{% else %}{{collection.label}} {% endif %} </h3>
+
+{% assign temp = collection.docs | where_exp: 'item', 'item.layout != "project"' %}
+{% assign count = temp.size %}
+
+
+  <h3>Des {% if count > 0 %}<a href="./{{ collection.label }}">{{collection.label}}</a>{% else %}{{collection.label}} {% endif %} </h3>
   <i>
-    {% if collection.docs.size > 1 %}({{ collection.docs.size }} entrées){% endif %}
-    {% if collection.docs.size == 1 %}({{ collection.docs.size }} entrée){% endif %}
+    {% if count > 1 %}({{ count }} entrées){% endif %}
+    {% if count == 1 %}({{ count }} entrée){% endif %}
   </i>
   <p>{{ collection.description }} </p>
 {% endif %}
