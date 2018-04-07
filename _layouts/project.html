@@ -8,7 +8,7 @@ layout: default
 <ul>
 {% for p in site.[page.collection] %}
 <li><a href="{{site.url}}/{{ p.url }}">{{ p.title }} - all</a></li>
-  {% if p.project == page.project %}
+  {% if p.project == page.title %}
     <li>
       <a href="{{site.url}}/{{ p.url }}">{{ p.title }}</a>
     </li>

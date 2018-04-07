@@ -1,5 +1,5 @@
 ---
-title: Projet de test
+title: Roman de test
 permalink: /romans/projet-de-test/index.html
 layout: project
 ---
