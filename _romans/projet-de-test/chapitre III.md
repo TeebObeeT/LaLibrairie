@@ -1,7 +1,7 @@
 ---
 title: La fin
 prv: chapitre II
-project: projet-de-test
+project: Roman de test
 ---
 # FIN
 

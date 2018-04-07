@@ -1,6 +1,6 @@
 ---
 title: Roman de test
-permalink: /romans/projet-de-test/index.html
+permalink: /romans/Roman de test/index.html
 layout: project
 ---
 

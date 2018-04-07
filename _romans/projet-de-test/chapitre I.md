@@ -1,7 +1,7 @@
 ---
 title: L'introduction
 nxt: chapitre II
-project: projet-de-test
+project: Roman de test
 ---
 # Début
 

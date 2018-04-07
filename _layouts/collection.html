@@ -9,7 +9,7 @@ layout: default
   <h2><a href="{{site.url}}/{{ page.title }}/{{ g.name }}">{{ g.name }}</a></h2>
   <ul>
     {% for i in g.items %}
-      {% if g.layout != "project" %}
+      {% if i.layout != "project" %}
         <li><a href="{{site.url}}/{{ i.url }}">{{i.title}}</a></li>
         {% endif %}
     {% endfor %}
