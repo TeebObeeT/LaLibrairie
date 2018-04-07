@@ -7,11 +7,24 @@ layout: default
 {% assign current_project = "null" %}
 
 {% assign groups = site.[page.title] | group_by: 'project' %}
+
+<hr/>
 {{ groups | inspect }}
+<hr/>
+
 {% for g in groups %}
+
+  <hr/>
+  {{ g | inspect }}
+  <hr/>
+
   <h2><a href="{{site.url}}/{{ page.title }}/{{ g.name }}">{{ g.name }}</a></h2>
   <ul>
     {% for i in g.items %}
+      <hr/>
+      {{ i | inspect }}
+      <hr/>
+    
       <a href="{{site.url}}/{{ i.url }}">{{i.title}}</a>
     {% endfor %}
   </ul>
