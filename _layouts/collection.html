@@ -4,6 +4,27 @@ layout: default
 
 <h1>{{ page.title | capitalize }}</h1>
 
+{% assign projects = [] %}
+
+
+{% assign site.[page.title].projects =  | sort: 'project' %}
+{% for entry in items %}
+
+  {% if entry.project != current_project %}
+    {{ projects | push  entry.project }}
+    {% assign current_project = entry.project %}
+  {% endif %}
+
+
+{% endfor %}
+{% if current_project != "null" %}</ul>{% endif %}
+
+
+
+<hr/>
+<hr/>
+
+
 {% assign current_project = "null" %}
 
 {% assign site.[page.title] | sort: 'project' %}
