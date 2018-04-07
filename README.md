@@ -32,9 +32,6 @@ Nouvelles, romans, exercices, brouillons et autres vagabondages
   * font générale ?
   * règle de "publication" ou epub ?
 
-* [Page projet] Liste des posts concernés dans l'ordre logique
-* [Page collection] Liste des posts projets dans l'ordre logique
-
 ### Pour plus tard
 
 * Menu dans le layout par défaut sous forme de texte d'introduction à la place du texte d'introduction
