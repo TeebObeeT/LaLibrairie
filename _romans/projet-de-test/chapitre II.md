@@ -2,8 +2,7 @@
 title: La suite
 nxt: chapitre III
 prv: chapitre I
-tag: "Roman de test"
-category: brouillon
+tags: "Roman de test"
 ---
 # Suite
 

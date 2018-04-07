@@ -1,6 +1,6 @@
 ---
 title: Le faux
 nxt: chapitre II
-tag: second
+tags: second
 ---
 # Début

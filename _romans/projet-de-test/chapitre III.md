@@ -1,7 +1,7 @@
 ---
 title: La fin
 prv: chapitre II
-tag: "Roman de test"
+tags: "Roman de test"
 ---
 # FIN
 
