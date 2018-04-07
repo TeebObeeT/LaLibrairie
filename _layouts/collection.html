@@ -6,7 +6,9 @@ layout: default
 
 {% assign current_project = "null" %}
 
-{% for entry in site.[page.title] | sort: 'project' %}
+{% assign site.[page.title] | sort: 'project' %}
+{% for entry in items limit:6 %}
+
   {% if entry.project != current_project %}
     
     {% if current_project != "null" %}</ul>{% endif %}
