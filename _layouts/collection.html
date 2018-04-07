@@ -7,7 +7,7 @@ layout: default
 {% assign current_project = "null" %}
 
 {% assign site.[page.title] | sort: 'project' %}
-{% for entry in items limit:6 %}
+{% for entry in items %}
 
   {% if entry.project != current_project %}
     
