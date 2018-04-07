@@ -8,16 +8,12 @@ layout: default
 <!-- {% assign current_project == current_project} -->
 
 {% for entry in site.[page.title] | sort:"project" %}
-{% if entry.project != current_project}
+{% if entry.project != current_project %}
   <h3>{{ entry.project }}</h3>
-  {% assign current_project = entry.project}
+  {% assign current_project = entry.project %}
 {% endif %}
 <h4>{{ item.title }}</h4>
-{{ group.project }}
-    <h3>{{group.name}}</h3>
-        {% for item in group.items %}
-            <p>{{ item.title }}</p>
-    <hr/>
+<hr/>
 
 
 <ul>
