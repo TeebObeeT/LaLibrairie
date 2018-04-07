@@ -27,23 +27,6 @@ layout: default
     {% endfor %}
   </ul>
 {% endfor %}
-<!-- 
-  {% if entry.project != current_project %}
-    
-    {% if current_project != "null" %}</ul>{% endif %}
-
-    <h2><a href="{{site.url}}/{{ page.title }}/{{ entry.project }}">{{ entry.project }}</a></h2>
-    {% assign current_project = entry.project %}
-    <ul>
-  {% endif %}
-
-  <li><a href="{{site.url}}/{{ entry.url }}">{{ entry.title }}{{ entry.project }}</a></li>
-
-{% endfor %}
-{% if current_project != "null" %}</ul>{% endif %} -->
-    
-
-
 
 <ul>
 {% for p in site.[page.title] %}
