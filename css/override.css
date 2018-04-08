@@ -30,6 +30,9 @@ h5 {
     font-size: 1.2 em !important;
 }
 a {
+    color: rgb(23, 16, 87) !important; 
+}
+#footer_wrap a {
     color: rgb(255, 221, 67) !important; 
 }
 div#header_wrap {
@@ -40,7 +43,7 @@ div#header_wrap {
 }
 #project_title {
     font-size: 4.2em !important;
-    top: 4.8em !important;
+    vertical-align: bottom !important;
     /* position: fixed !important; */
 }
 #project_tagline {
