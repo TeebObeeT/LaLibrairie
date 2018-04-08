@@ -1,1 +1,13 @@
-<a href="{{ "/nouvelles" | prepend: site.baseurl}}">Nouvelles</a>, <a href="{{ "/romans" | prepend: site.baseurl}}">romans</a>, <a href="{{ "/exercices" | prepend: site.baseurl}}">exercices</a>, <a  href="{{ "/brouillons" | prepend: site.baseurl}}">brouillons</a> et autres <a href="{{ "/vagabondages" | prepend: site.baseurl}}">vagabondages</a>...
+{% assign temp = site.nouvelles.docs | where_exp: 'item', 'item.layout != "project"' %}
+{% assign count = temp.size %}
+
+{% if count > 0 %}
+    <a href="{{ "/nouvelles" | prepend: site.baseurl}}">Nouvelles</a>
+{% else %}    
+    Nouvelles
+{% endif %}
+,
+<a href="{{ "/romans" | prepend: site.baseurl}}">romans</a>, 
+<a href="{{ "/exercices" | prepend: site.baseurl}}">exercices</a>, 
+<a href="{{ "/brouillons" | prepend: site.baseurl}}">brouillons</a> et autres 
+<a href="{{ "/vagabondages" | prepend: site.baseurl}}">vagabondages</a>...
