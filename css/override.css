@@ -43,8 +43,10 @@ div#header_wrap {
     /* z-index: 10 !important; */
 }
 #project_title {
-    font-size: 4.2em !important;
-    vertical-align:text-bottom !important;
+    font-size: 4.4em !important;
+    margin-bottom: 0 !important;
+    padding-bottom: 0 !important;
+    /* vertical-align:text-bottom !important; */
     /* position: fixed !important; */
 }
 #project_tagline {
