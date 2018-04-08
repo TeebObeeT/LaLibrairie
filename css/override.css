@@ -40,7 +40,7 @@ div#header_wrap {
     top: 0 !important;
     height: 10em !important;
     /* vertical-align: top !important; */
-    /* z-index: 10 !important; */
+    z-index: 10 !important;
 }
 #project_title {
     font-size: 5em !important;

@@ -21,6 +21,9 @@ Nouvelles, romans, exercices, brouillons et autres vagabondages
 
 * default : par défaut pour les postes, base des autres layout.
 * collection : pour afficher les résultats d'une collection - par défaut pour les pages du répertoire "collections".
+* project : pour afficher une page résumé par projet.
+  * Utiliser permalink: /romans/project_name/index.html
+  * Ajouter un descriptif du projet
 
 ## Reste à faire
 
@@ -29,7 +32,5 @@ Nouvelles, romans, exercices, brouillons et autres vagabondages
 ### Pour plus tard
 
 * Menu dans le layout par défaut sous forme de texte d'introduction à la place du texte d'introduction
-
-* CSS : Réduire le bandeau du haut en cas de scroll mais le garder en permanence ?
 
 * Générateur de epub
