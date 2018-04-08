@@ -47,6 +47,7 @@ div#header_wrap {
     top: 5em !important;
     margin-bottom: 0 !important;
     padding-bottom: 0 !important;
+    text-shadow: none !important;
     /* vertical-align:text-bottom !important; */
     /* position: fixed !important; */
 }
