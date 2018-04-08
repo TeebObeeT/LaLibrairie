@@ -67,7 +67,7 @@ header.inner {
     margin-top: 0 !important;
     margin-bottom: 0 !important;
     
-    text-shadow: 0.2em 0.2em black;
+    text-shadow: #111 0px 0px 10px !important;
 }
 #project_tagline {
     font-size: 1.2em !important;
