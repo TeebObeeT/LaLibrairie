@@ -31,6 +31,4 @@ Nouvelles, romans, exercices, brouillons et autres vagabondages
 
 ### Pour plus tard
 
-* Menu dans le layout par défaut sous forme de texte d'introduction à la place du texte d'introduction
-
 * Générateur de epub
