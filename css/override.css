@@ -41,12 +41,12 @@ div#header_wrap {
 #project_title {
     font-size: 3.2em !important;
     top: 4.8em !important;
-    position: fixed !important;
+    /* position: fixed !important; */
 }
 #project_tagline {
     font-size: 1.2em !important;
     top: 0.1em !important;
-    position: fixed !important;
+    /* position: fixed !important; */
 }
 div#main_content_wrap {
     margin-top: 10em !important;
