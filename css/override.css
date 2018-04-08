@@ -47,7 +47,7 @@ div#header_wrap p.subtitle, div#header_wrap p.subtitle a {
     margin-bottom: 0 !important;
     color: whitesmoke !important;
 }
-div#header_wrap p.subtitle a:focus {
+div#header_wrap p.subtitle a:focus, div#header_wrap p.subtitle a:hover {
     font-weight: normal;
 }
 header.inner {
