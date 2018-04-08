@@ -38,7 +38,7 @@ a {
 div#header_wrap {
     position: fixed !important;
     top: 0 !important;
-    /* height: 10 em !important; */
+    height: 10em !important;
     /* vertical-align: top !important; */
     /* z-index: 10 !important; */
 }
