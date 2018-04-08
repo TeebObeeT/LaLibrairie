@@ -36,8 +36,8 @@ a {
     color: rgb(255, 221, 67) !important; 
 }
 div#header_wrap {
-    position: fixed !important;
-    top: 0 !important;
+    /* position: fixed !important; */
+    /* top: 0 !important; */
     height: 10em !important;
     /* vertical-align: top !important; */
     z-index: 10 !important;
@@ -53,9 +53,6 @@ div#header_wrap {
 }
 #project_tagline {
     font-size: 1.2em !important;
-    top: 2 em !important;
+    /* top: 2 em !important; */
     /* position: fixed !important; */
-}
-div#main_content_wrap {
-    margin-top: 10em !important;
 }
