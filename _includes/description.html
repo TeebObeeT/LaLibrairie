@@ -36,7 +36,7 @@
     brouillons et autres
 {% endif %}
 
-{% assign temp = site.vagabondages.docs | where_exp: 'item', 'item.layout != "project"' %}
+{% assign temp = site.vagabondages | where_exp: 'item', 'item.layout != "project"' %}
 {{ temp | inspect }}
 {% if temp.size > 0 %}
 <a href="{{ "/vagabondages" | prepend: site.baseurl}}">vagabondages</a>...
