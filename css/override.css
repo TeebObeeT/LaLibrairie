@@ -1,7 +1,7 @@
 p.subtitle {
     font-style: italic !important;
     padding-top: 0 !important;
-    margin-top: 0 !important;
+    margin-top: -1em !important;
 }
 b {
     font-style: bold !important;
@@ -30,5 +30,5 @@ h5 {
     font-size: 1.2 em !important;
 }
 a {
-    color: rgb(9, 3, 65) !important; 
+    color: rgba(9, 3, 65, 0.616) !important; 
 }
