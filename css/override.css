@@ -38,14 +38,13 @@ a {
 div#header_wrap {
     position: fixed !important;
     top: 0 !important;
-    height: 8em !important;
-    vertical-align: top !important;
+    height: 10 em !important;
+    /* vertical-align: top !important; */
     /* z-index: 10 !important; */
 }
 #project_title {
     font-size: 5em !important;
-    position: absolute !important;
-    top: 3em !important;
+    top: 5em !important;
     margin-bottom: 0 !important;
     padding-bottom: 0 !important;
     /* vertical-align:text-bottom !important; */
