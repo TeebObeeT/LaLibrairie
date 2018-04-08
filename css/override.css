@@ -45,6 +45,7 @@ div#header_wrap {
 div#header_wrap p.subtitle {
     margin-top:0 !important;
     margin-bottom: 0 !important;
+    color: whitesmoke !important;
 }
 header.inner {
     padding-top:0 !important;
@@ -54,18 +55,18 @@ header.inner {
 }
 #project_title {
     font-size: 4.9em !important;
-    padding-bottom: 0 !important;
+    /* padding-bottom: 0 !important;
     padding-top: 0 !important;
     margin-top: 0 !important;
-    margin-bottom: 0 !important;
+    margin-bottom: 0 !important; */
     
 }
 #project_title a {
     color: whitesmoke !important;
-    padding-bottom: 0 !important;
+    /* padding-bottom: 0 !important;
     padding-top: 0 !important;
     margin-top: 0 !important;
-    margin-bottom: 0 !important;
+    margin-bottom: 0 !important; */
     
     text-shadow: #111 0px 0px 10px !important;
 }
