@@ -30,7 +30,7 @@ h5 {
     font-size: 1.2 em !important;
 }
 a {
-    color: rgba(148, 124, 18, 0.486) !important; 
+    color: rgb(255, 221, 67) !important; 
 }
 div#header_wrap {
     position: fixed !important;
@@ -45,7 +45,7 @@ div#header_wrap {
 }
 #project_tagline {
     font-size: 1.2em !important;
-    top: 0.1em !important;
+    top: 2 em !important;
     /* position: fixed !important; */
 }
 div#main_content_wrap {
