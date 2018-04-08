@@ -38,6 +38,9 @@ div#header_wrap {
     height: 100px !important;
     vertical-align: top !important;
 }
+div#header_wrap h1, div#header_wrap .subtitle {
+    display: inline-block !important;
+}
 div#main_content_wrap {
     margin-top: 100px !important;
     margin-bottom: 50px !important;
