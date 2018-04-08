@@ -35,9 +35,9 @@ a {
 #footer_wrap a {
     color: rgb(255, 221, 67) !important; 
 }
-/* div#header_wrap {
+div#header_wrap {
     height: 7em !important;
-} */
+}
 div#header_wrap p.subtitle, div#header_wrap p.subtitle a {
     margin-top:0 !important;
     margin-bottom: 0 !important;
