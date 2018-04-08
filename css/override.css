@@ -36,6 +36,7 @@ div#header_wrap {
     position: fixed !important;
     top: 0 !important;
     height: 100px !important;
+    vertical-align: top !important;
 }
 div#main_content_wrap {
     margin-top: 100px !important;
@@ -44,5 +45,6 @@ div#main_content_wrap {
 div#footer_wrap {
     height: 50px !important;
     position: fixed !important;
+    vertical-align: bottom !important;
     
 }
