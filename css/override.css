@@ -61,4 +61,7 @@ header.inner {
 }
 #project_tagline {
     font-size: 1.2em !important;
+    padding:0 !important;
+    margin:0 !important;
+    
 }
