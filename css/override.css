@@ -52,7 +52,7 @@ header.inner {
 /*     
     padding: 0 !important; */
 }
-#project_title {
+#project_title a {
     font-size: 4.9em !important;
     /* margin-bottom: 0 !important; */
     padding-bottom: 0 !important;
