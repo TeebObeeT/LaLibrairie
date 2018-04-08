@@ -54,10 +54,10 @@ header.inner {
 }
 #project_title {
     font-size: 4.9em !important;
-    /* top: 5em !important; */
-    margin-bottom: 0 !important;
+    /* margin-bottom: 0 !important; */
     padding-bottom: 0 !important;
-    text-shadow: none !important;
+    /* text-shadow: none !important; */
+    padding-top: 0 !important;
 }
 #project_tagline {
     font-size: 1.2em !important;
