@@ -54,15 +54,20 @@ header.inner {
 }
 #project_title {
     font-size: 4.9em !important;
-    /* margin-bottom: 0 !important; */
     padding-bottom: 0 !important;
-    /* text-shadow: none !important; */
     padding-top: 0 !important;
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+    
 }
 #project_title a {
     color: whitesmoke !important;
     padding-bottom: 0 !important;
     padding-top: 0 !important;
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+    
+    text-shadow: black;
 }
 #project_tagline {
     font-size: 1.2em !important;
