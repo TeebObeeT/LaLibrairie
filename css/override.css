@@ -44,15 +44,11 @@ div#header_wrap {
 }
 #project_title {
     font-size: 5em !important;
-    top: 5em !important;
+    /* top: 5em !important; */
     margin-bottom: 0 !important;
     padding-bottom: 0 !important;
     text-shadow: none !important;
-    /* vertical-align:text-bottom !important; */
-    /* position: fixed !important; */
 }
 #project_tagline {
     font-size: 1.2em !important;
-    /* top: 2 em !important; */
-    /* position: fixed !important; */
 }
