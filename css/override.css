@@ -35,19 +35,19 @@ a {
 div#header_wrap {
     position: fixed !important;
     top: 0 !important;
-    height: 100px !important;
+    height: 10em !important;
     vertical-align: top !important;
 }
 #project_title {
     font-size: 2.2em !important;
-    top: 50px !important;
+    top: 7.8em !important;
     position: absolute !important;
 }
 #project_tagline {
-    font-size: 1.4em !important;
+    font-size: 1.2em !important;
     top: 0.1em !important;
     position: absolute !important;
 }
 div#main_content_wrap {
-    margin-top: 100px !important;
+    margin-top: 10em !important;
 }
