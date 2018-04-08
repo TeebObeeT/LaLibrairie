@@ -34,7 +34,15 @@ a {
 }
 div#header_wrap {
     position: fixed !important;
+    top: 0 !important;
+    height: 100px !important;
 }
 div#main_content_wrap {
     margin-top: 100px !important;
+    margin-bottom: 50px !important;
+}
+div#footer_wrap {
+    height: 50px !important;
+    position: fixed !important;
+    
 }
