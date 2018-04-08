@@ -1,13 +1,44 @@
 {% assign temp = site.nouvelles.docs | where_exp: 'item', 'item.layout != "project"' %}
-{% assign count = temp.size %}
+{% assign n = temp.size %}
 
-{% if count > 0 %}
-    <a href="{{ "/nouvelles" | prepend: site.baseurl}}">Nouvelles</a>
+{% assign temp = site.romans.docs | where_exp: 'item', 'item.layout != "project"' %}
+{% assign r = temp.size %}
+
+{% assign temp = site.exerices.docs | where_exp: 'item', 'item.layout != "project"' %}
+{% assign e = temp.size %}
+
+{% assign temp = site.brouillons.docs | where_exp: 'item', 'item.layout != "project"' %}
+{% assign b = temp.size %}
+
+{% assign temp = site.vagabondages.docs | where_exp: 'item', 'item.layout != "project"' %}
+{% assign v = temp.size %}
+
+{% if n > 0 %}
+    <a href="{{ "/nouvelles" | prepend: site.baseurl}}">Nouvelles,</a>
 {% else %}    
-    Nouvelles
+    Nouvelles,
 {% endif %}
-,
+
+{% if r > 0 %}
 <a href="{{ "/romans" | prepend: site.baseurl}}">romans</a>, 
+{% else %}    
+    romans,
+{% endif %}
+
+{% if e > 0 %}
 <a href="{{ "/exercices" | prepend: site.baseurl}}">exercices</a>, 
+{% else %}
+    exercices,    
+{% endif %}
+
+{% if b > 0 %}
 <a href="{{ "/brouillons" | prepend: site.baseurl}}">brouillons</a> et autres 
+{% else %}    
+    brouillons et autres
+{% endif %}
+
+{% if v > 0 %}
 <a href="{{ "/vagabondages" | prepend: site.baseurl}}">vagabondages</a>...
+{% else %}    
+    vagabondage...
+{% endif %}

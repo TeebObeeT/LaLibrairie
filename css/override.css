@@ -43,9 +43,9 @@ div#header_wrap p.subtitle, div#header_wrap p.subtitle a {
     margin-bottom: 0 !important;
     color: whitesmoke !important;
 }
-/* div#header_wrap p.subtitle a:focus, div#header_wrap p.subtitle a:hover {
+div#header_wrap p.subtitle a:focus, div#header_wrap p.subtitle a:hover {
     font-weight: normal;
-} */
+}
 header.inner {
     padding-top:0 !important;
     padding-bottom:0 !important;
@@ -59,6 +59,6 @@ header.inner {
 }
 #project_tagline {
     font-size: 1.2em !important;
-    /* padding:0 !important;
-    margin:0 !important; */
+    padding:0 !important;
+    margin:0 !important;
 }
