@@ -43,7 +43,9 @@ div#header_wrap {
     /* z-index: 10 !important; */
 }
 #project_title {
-    font-size: 4.4em !important;
+    font-size: 5em !important;
+    position: fixed !important;
+    top: 3em !important;
     margin-bottom: 0 !important;
     padding-bottom: 0 !important;
     /* vertical-align:text-bottom !important; */
