@@ -26,12 +26,9 @@ Nouvelles, romans, exercices, brouillons et autres vagabondages
 
 ### Bloqueurs
 
-* Rework CSS (couleur de lien, pas d'emphase qui marche)
-  * changer de couleur pour les liens
+### Pour plus tard
 
 * remove i to transform in class ?
-
-### Pour plus tard
 
 * Menu dans le layout par défaut sous forme de texte d'introduction à la place du texte d'introduction
 

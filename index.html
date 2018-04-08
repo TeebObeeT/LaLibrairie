@@ -17,10 +17,10 @@ Si certains écrits prennent une bonne ampleur, je chercherai peut-être à leur
 
 
   <h3>Des {% if count > 0 %}<a href="./{{ collection.label }}">{{collection.label}}</a>{% else %}{{collection.label}} {% endif %} </h3>
-  <i>
+  <p class="subtitle">
     {% if count > 1 %}({{ count }} entrées){% endif %}
     {% if count == 1 %}({{ count }} entrée){% endif %}
-  </i>
+  </p>
   <p>{{ collection.description }} </p>
 {% endif %}
 {% endfor %}
