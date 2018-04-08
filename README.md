@@ -8,7 +8,7 @@ Nouvelles, romans, exercices, brouillons et autres vagabondages
 
 * prv: chemin relatif de l'élément précédent pour la navigation (et éventuel scripting plus tard)
 * nxt: chemin relatif de l'élément suivant pour la navigation (et éventuel scripting plus tard)
-
+ 
 ### Catégories
 
 * Vagabondages : textes en vracs *(valeur par défaut dans le répertoire idoine)*
@@ -27,8 +27,6 @@ Nouvelles, romans, exercices, brouillons et autres vagabondages
 ### Bloqueurs
 
 ### Pour plus tard
-
-* remove i to transform in class ?
 
 * Menu dans le layout par défaut sous forme de texte d'introduction à la place du texte d'introduction
 
