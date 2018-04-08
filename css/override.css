@@ -44,7 +44,7 @@ div#header_wrap {
 }
 #project_title {
     font-size: 5em !important;
-    position: fixed !important;
+    position: absolute !important;
     top: 3em !important;
     margin-bottom: 0 !important;
     padding-bottom: 0 !important;
