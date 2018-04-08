@@ -42,7 +42,7 @@ div#header_wrap {
     /* vertical-align: top !important; */
     /* z-index: 10 !important; */
 }
-div#header_wrap p.subtitle {
+div#header_wrap p.subtitle, div#header_wrap p.subtitle a {
     margin-top:0 !important;
     margin-bottom: 0 !important;
     color: whitesmoke !important;
