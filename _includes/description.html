@@ -18,7 +18,7 @@ Nouvelles,
 romans,
 {% endif %}
 
-{% assign temp = site.exerices | where_exp: 'item', 'item.layout != "project"' %}
+{% assign temp = site.exercices | where_exp: 'item', 'item.layout != "project"' %}
 {% if temp.size > 0 %}
 <a href="{{ "/exercices" | prepend: site.baseurl}}">exercices</a>, 
 {% else %}

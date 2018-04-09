@@ -38,10 +38,10 @@ Ceci est juste un test d'un autre fichier sans front matter.
 
 ### Carreaux - Ménage
 
-* As - Ne pas avoir de vaisselle sale au couché
+* As - Ne pas avoir de vaisselle sale au couché (pendant la durée)
 * Roi - Faire 30' de ménage par jour
-* Reine -
-* Valet -
+* Reine - Laver tous les carreaux dans la quinzaine
+* Valet - 
 * 10 -
 * 9 -
 * 8 -
