@@ -41,11 +41,11 @@ Ceci est juste un test d'un autre fichier sans front matter.
 * As - Ne pas avoir de vaisselle sale au couché (pendant la durée)
 * Roi - Faire 30' de ménage par jour
 * Reine - Laver tous les carreaux dans la quinzaine
-* Valet - 
-* 10 -
-* 9 -
-* 8 -
-* 7 -
+* Valet - Nettoyage des tapis en grand!
+* 10 - Nettoyage parfait de l'étage
+* 9 - Nettoyage parfait de la pièce de vie
+* 8 - 
+* 7 - Nettoyage parfait du petit bureau
 
 ### Coeur - Cunnilingus
 
