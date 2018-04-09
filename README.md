@@ -22,7 +22,8 @@ Nouvelles, romans, exercices, brouillons et autres vagabondages
 * default : par défaut pour les postes, base des autres layout.
 * collection : pour afficher les résultats d'une collection - par défaut pour les pages du répertoire "collections".
 * project : pour afficher une page résumé par projet.
-  * Utiliser permalink: /romans/project_name/index.html
+  * Utiliser *permalink:* /romans/project_name/index.html
+  * Mettre le nom du projet en *title*
   * Ajouter un descriptif du projet
 
 ## Reste à faire
