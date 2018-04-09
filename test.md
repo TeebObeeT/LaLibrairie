@@ -54,8 +54,8 @@ Ceci est juste un test d'un autre fichier sans front matter.
 * Reine - Cunilingus pendant que la partenaire est sur le ventre occupée à lire,...
 * Valet - Cunilingus les yeux bandés.
 * 10 -
-* 9 -
-* 8 -
+* 9 - 
+* 8 - Cunilingus assise sur l'offreur
 * 7 - A genou pour honorer.
 
 ### Trèfle - Défis
