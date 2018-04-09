@@ -1,6 +1,6 @@
 ﻿---
 title: Saisons
-project: ecrire
+project: Ecrire
 prv: p26_ListeInventions
 nxt: p37_Vert Bleu
 ---
