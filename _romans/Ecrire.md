@@ -1,7 +1,7 @@
 ---
 project: Ecrire
 layout: project
-permalink: /romans/Ecrire/index.html
+permalink: /romans/ecrire/index.html
 title: Ecrire
 ---
 

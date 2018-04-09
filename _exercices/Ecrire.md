@@ -1,7 +1,6 @@
 ---
-project: Ecrire
 layout: project
-permalink: /exercices/Ecrire/index.html
+permalink: /exercices/ecrire/index.html
 title: Ecrire
 ---
 

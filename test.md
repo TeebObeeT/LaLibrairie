@@ -11,7 +11,8 @@ Ceci est juste un test d'un autre fichier sans front matter.
 * Tous les 15 jours, tirer une carte d'un jeu de 32 cartes
 * Effectuer la demande correspondante à la carte (une fois dans la quinzaine si pas précisé)
 * Si la demande n'a pas pu être comblée:
-  * 1 gage (A effectuer par ordre croissant dans la liste correspondante)
+  * 1 gage (A effectuer en fonction d'un résultat D6)
+    * Si le gage précédent n'est pas fini, l'arrêter et lancer 2 fois le dé. Les résultats similaires allongent la durée de l'épreuve.
   * 1 punition (A inventer à chaque fois)
   * La carte est remise dans le talon et celui-ci mélangé
   * La quinzaine suivante, on tire et applique 2 cartes
@@ -73,11 +74,7 @@ Ceci est juste un test d'un autre fichier sans front matter.
 
 * 1 - week end sans PC
 * 2 - week end sans PC ni téléphone
-* 3 - 
-* 4 -
-* 5 - Pas de jouissance pendant 15 jours
+* 3 - sport tous les jours avant le petit déjeuner pendant une semaine
+* 4 - 
+* 5 - Pas de jouissance pendant 30 jours (à faire contrôler)
 * 6 -
-* 7 -
-* 8 -
-* 9 -
-* 10 -

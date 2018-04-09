@@ -1,6 +1,6 @@
 ﻿---
 title: Liste des Inventions
-project: Ecrire
+project: ecrire
 nxt: p28_saisons
 ---
 Je voudrais pas mourir sans qu’on ait inventé,
