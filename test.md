@@ -72,9 +72,9 @@ Ceci est juste un test d'un autre fichier sans front matter.
 
 ### Gages
 
-* 1 - week end sans PC
-* 2 - week end sans PC ni téléphone
-* 3 - sport tous les jours avant le petit déjeuner pendant une semaine
+* 1 - week end sans PC.
+* 2 - week end sans PC ni téléphone.
+* 3 - sport tous les jours avant le petit déjeuner pendant une semaine.
 * 4 - 
 * 5 -
 * 6 - Pas de jouissance pendant 30 jours (à faire contrôler)

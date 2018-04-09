@@ -1,10 +1,8 @@
-﻿---
-title: Liste des Inventions
-project: ecrire
-nxt: p28_saisons
 ---
+---
+
 Je voudrais pas mourir sans qu’on ait inventé,
-Près un peu de perlinpinpin
+Près, un peu de perlinpinpin
 Le voyage immédiat
 Le réel fantastique
 La disparition des médias
