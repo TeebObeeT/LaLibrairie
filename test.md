@@ -44,7 +44,7 @@ Ceci est juste un test d'un autre fichier sans front matter.
 * Valet - Nettoyage des tapis en grand!
 * 10 - Nettoyage parfait de l'étage
 * 9 - Nettoyage parfait de la pièce de vie
-* 8 - 
+* 8 - Nettoyage des salles d'eau, machine et frigos
 * 7 - Nettoyage parfait du petit bureau
 
 ### Coeur - Cunnilingus
