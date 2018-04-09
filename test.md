@@ -71,9 +71,9 @@ Ceci est juste un test d'un autre fichier sans front matter.
 
 ### Gages
 
-* 1 -
-* 2 -
-* 3 -
+* 1 - week end sans PC
+* 2 - week end sans PC ni téléphone
+* 3 - 
 * 4 -
 * 5 - Pas de jouissance pendant 15 jours
 * 6 -
