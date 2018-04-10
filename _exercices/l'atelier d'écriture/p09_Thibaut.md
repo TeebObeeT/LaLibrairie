@@ -4,7 +4,7 @@ title: Thibaut
 prv: p07_Ami
 nxt: p11_Thibaut_Girard
 ---
-## Exercice: Acrostiche
+## Exercice : Acrostiche
 Composez un poème en acrostiche avec votre prénom
 
 ---

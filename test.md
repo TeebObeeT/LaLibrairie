@@ -10,7 +10,7 @@ Ceci est juste un test d'un autre fichier sans front matter.
 
 * Tous les 15 jours, tirer une carte d'un jeu de 32 cartes
 * Effectuer la demande correspondante à la carte (une fois dans la quinzaine si pas précisé)
-* Si la demande n'a pas pu être comblée:
+* Si la demande n'a pas pu être comblée :
   * 1 gage (A effectuer en fonction d'un résultat D6)
     * Si le gage précédent n'est pas fini, l'arrêter et lancer 2 fois le dé. Les résultats similaires allongent la durée de l'épreuve.
   * 1 punition (A inventer à chaque fois)
@@ -42,7 +42,7 @@ Ceci est juste un test d'un autre fichier sans front matter.
 * As - Ne pas avoir de vaisselle sale au couché (pendant la durée).
 * Roi - Faire 30' de ménage par jour.
 * Reine - Laver tous les carreaux dans la quinzaine.
-* Valet - Nettoyage des tapis en grand!
+* Valet - Nettoyage des tapis en grand !
 * 10 - Nettoyage parfait de l'étage.
 * 9 - Nettoyage parfait de la pièce de vie.
 * 8 - Nettoyage des salles d'eau, machine et frigos.

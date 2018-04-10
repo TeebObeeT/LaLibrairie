@@ -22,7 +22,7 @@ A la manière de Raymonhd Devos, vous inventerez un dialogue absorde où vous vo
 
 -J'en ai plus!
 
--De quoi?
+-De quoi ?
 
 -De pot, j'ai épuisé mon quota
 
@@ -30,7 +30,7 @@ A la manière de Raymonhd Devos, vous inventerez un dialogue absorde où vous vo
 
 -Ha non, un seul, mais un gros!
 
--Comment ça?
+-Comment ça ?
 
 -Un gros coup de cul hier!
 
@@ -42,15 +42,15 @@ A la manière de Raymonhd Devos, vous inventerez un dialogue absorde où vous vo
 
 -Puisque je te dis que j'en ai plus, il m'est tombé dessus!
 
--Qui ça?
+-Qui ça ?
 
 -J'ai cassé le pot aux roses
 
 -C'est "découvert" l'expression!
 
--Quelle expression?
+-Quelle expression ?
 
--Tu as découvert le pot aux roses! A propos de ton chef?
+-Tu as découvert le pot aux roses! A propos de ton chef ?
 
 -Mais non, mon chef, je m'en fous, je veux démissionner, parce que j'ai eu du cul hier, j'ai gagné au loto!
 
