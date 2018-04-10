@@ -6,14 +6,25 @@ nxt: p29_pot_aux_roses
 ---
 
 A
+
 NE
+
 PAS
+
 LIRE
+
 AVANT
+
 DORMIR
+
 SEVERES
+
 RANCUNES
+
 ILLUSIONS
+
 MENACANTES
+
 LITTERATURE
+
 DESENGAGEE
