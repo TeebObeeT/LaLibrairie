@@ -1,7 +1,7 @@
 ---
 project: L'atelier d'écriture
 title: Ami
-nxt: p9_Thibaut
+nxt: p09_Thibaut
 ---
 Ami buvons car demain enfin fera gagner hier, ici, jouissons Kevin, le mal nous offrira pour quelques roubles soudoyés tout Uranus, voyons Walter, Xavier, Yves...Zaratoustra!
 

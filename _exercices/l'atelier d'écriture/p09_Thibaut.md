@@ -1,7 +1,7 @@
 ---
 project: L'atelier d'écriture
 title: Thibaut
-prv: p7_Ami
+prv: p07_Ami
 nxt: p11_Thibaut_Girard
 ---
 Théorème ancien de nos vies sans haines
