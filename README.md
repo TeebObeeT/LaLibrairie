@@ -32,4 +32,6 @@ Nouvelles, romans, exercices, brouillons et autres vagabondages
 
 ### Pour plus tard
 
+* Changer les guillemets
+* Calligraphie pour textes poétiques (sur italique ? "violer" le souligné)
 * Générateur de epub
