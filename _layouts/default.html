@@ -36,7 +36,8 @@
     <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner">
           <h1>{{ page.title | capitalize }}</h1>
-        {{ content }}
+        <!-- {{ content }} -->
+        {% include content.html %}
       </section>
       <section id="main_navigation" class="inner">
         {% if page.prv %}<a href="{{ ./page.prv }}">Auparavant</a>{% endif %} 
