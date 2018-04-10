@@ -33,5 +33,7 @@ Nouvelles, romans, exercices, brouillons et autres vagabondages
 ### Pour plus tard
 
 * Changer les guillemets
-* Calligraphie pour textes poétiques (sur italique ? "violer" le souligné)
+* Changer les tirets de dialogue
+* Calligraphie pour textes poétiques (sur italique ? "violer" le souligné?)
+* Forcer le fixsys
 * Générateur de epub

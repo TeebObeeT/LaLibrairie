@@ -1,5 +1,5 @@
 ---
-project: L'atelier d'écriture
+project: l'atelier d'écriture
 title: Thibaut
 prv: p07_Ami
 nxt: p11_Thibaut_Girard

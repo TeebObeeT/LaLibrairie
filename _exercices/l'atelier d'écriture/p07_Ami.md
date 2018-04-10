@@ -1,5 +1,5 @@
 ---
-project: L'atelier d'écriture
+project: l'atelier d'écriture
 title: Ami
 nxt: p09_Thibaut
 ---

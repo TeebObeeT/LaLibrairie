@@ -1,5 +1,5 @@
 ---
-project: L'atelier d'écriture
+project: l'atelier d'écriture
 title: Aparté
 prv: p11_Thibaut_Girard
 nxt: p17_boule_de_neige

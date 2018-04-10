@@ -1,5 +1,5 @@
 ---
-project: L'atelier d'écriture
+project: l'atelier d'écriture
 title: Boule de neige
 prv: p13_aparte
 nxt: p29_pot_aux_roses
