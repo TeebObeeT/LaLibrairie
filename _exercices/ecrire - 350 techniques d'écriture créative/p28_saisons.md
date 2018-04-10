@@ -6,6 +6,7 @@ prv: p26_ListeInventions
 ---
 
 **Prose poétique** - 45'
+
 L'inventaire heureux de vos saisons : A la manière de Shei Sodagon, dame d'honneur du XIème et de son "journal".
 
 ---
