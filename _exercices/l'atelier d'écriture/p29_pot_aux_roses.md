@@ -2,54 +2,54 @@
 project: L'atelier d'écriture
 title: Pot aux roses
 prv: p17_boule_de_neige
-
 ---
--Il faut que je te parle
 
--Oui ?
+- Il faut que je te parle
 
--C'est à propos de mon chef, je veux démissionner
+- Oui ?
 
--Ben vas-y...
+- C'est à propos de mon chef, je veux démissionner
 
--J'essaye de lui en parler, mais il ne comprend pas
+- Ben vas-y...
 
--Ben arrête de tourner autour du pot, dis lui franchement
+- J'essaye de lui en parler, mais il ne comprend pas
 
--J'en ai plus!
+- Ben arrête de tourner autour du pot, dis lui franchement
 
--De quoi?
+- J'en ai plus!
 
--De pot, j'ai épuisé mon quota
+- De quoi?
 
--Tu lui dis franchement, et le problème est réglé en deux coups de cuiller à pot...
+- De pot, j'ai épuisé mon quota
 
--Ha non, un seul, mais un gros!
+- Tu lui dis franchement, et le problème est réglé en deux coups de cuiller à pot...
 
--Comment ça?
+- Ha non, un seul, mais un gros!
 
--Un gros coup de cul hier!
+- Comment ça?
 
--Ben du coup c'est deux fois plus rapide!
+- Un gros coup de cul hier!
 
--Ben non, parce qu'aujourd'hui, plus de pot!
+- Ben du coup c'est deux fois plus rapide!
 
--Bon arrête de tourner autour du pot!
+- Ben non, parce qu'aujourd'hui, plus de pot!
 
--Puisque je te dis que j'en ai plus, il m'est tombé dessus!
+- Bon arrête de tourner autour du pot!
 
--Qui ça?
+- Puisque je te dis que j'en ai plus, il m'est tombé dessus!
 
--J'ai cassé le pot aux roses
+- Qui ça?
 
--C'est "découvert" l'expression!
+- J'ai cassé le pot aux roses
 
--Quelle expression?
+- C'est "découvert" l'expression!
 
--Tu as découvert le pot aux roses! A propos de ton chef?
+- Quelle expression?
 
--Mais non, mon chef, je m'en fous, je veux démissionner, parce que j'ai eu du cul hier, j'ai gagné au loto!
+- Tu as découvert le pot aux roses! A propos de ton chef?
 
--Ha ba voilé, j'ai enfin découvert le pot aux roses!
+- Mais non, mon chef, je m'en fous, je veux démissionner, parce que j'ai eu du cul hier, j'ai gagné au loto!
 
--Mais non, je te dis que je l'ai cassé!
+- Ha ba voilé, j'ai enfin découvert le pot aux roses!
+
+- Mais non, je te dis que je l'ai cassé!
