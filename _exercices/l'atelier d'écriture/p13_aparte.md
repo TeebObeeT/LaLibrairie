@@ -4,9 +4,11 @@ title: Aparté
 prv: p11_Thibaut_Girard
 nxt: p17_boule_de_neige
 ---
-## Exerice : Aparté
+## Exerice: Aparté
 Imaginez une courte scène amoureuse entre deux jeunes gens qui se cachent soit leurs sentiments, soit des informations importantes. Afin d'éviter les platitudes sentimentales, vous intégrerez des apartés qui créeront des dissonances comiques ou ironiques dans le dialogue.
+
 ---
+
 «Lui - Ma chère et tendre!  
 (Qu”est ce qu”elle fait là?!)
 
