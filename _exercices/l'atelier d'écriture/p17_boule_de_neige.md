@@ -11,6 +11,7 @@ Réalisez une boule de neige en vers croissants et décroissants qui commencera 
 
 ---
 
+```
 A  
 NE  
 PAS  
@@ -22,6 +23,7 @@ RANCUNES
 ILLUSIONS  
 MENACANTES  
 LITTERATURE  
-DESENGAGEE
-AUTREMENT
-HEUREUSE
+DESENGAGEE  
+AUTREMENT  
+HEUREUSE  
+```

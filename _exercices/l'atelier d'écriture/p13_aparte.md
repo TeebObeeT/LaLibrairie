@@ -27,5 +27,5 @@ Lui - C'est une bonne idée, il y a le Spub qui retransmet le match
 Elle - Il y a match ce soir ? Je suis désolé, j'ai réservé une table à la vinothèque, ils doivent pas avoir la télé  
 (Il va bien finir par me lâcher !)
 
-Lui - Quelle bonne initiative mon amour ! "  
+Lui - Quelle bonne initiative mon amour !"  
 (Quelle conne ! Elle me fait chier, mais bon, elle pourra m'avoir les textes de l'exam en avance, plus que 3 mois)
