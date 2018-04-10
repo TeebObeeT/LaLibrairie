@@ -1,7 +1,7 @@
 ---
 project: ecrire
 title: Saisons
-nxt: p37 Vert Bleu
+nxt: p37_Vert Bleu
 prv: p26_ListeInventions
 ---
 L’été offre la chaleur, par contraste, c’est la sensation de fraîcheur que je préfère, après un effort cycliste, rentrer dans une vieille demeure, dans une cave, une église est un plaisir relaxant. Ou bien alors, après une sieste au soleil, rentrer dans la maison et apprécier cet air frais et ombragé. Bien sûr rien n’égale la sensation d’une légère brise à l’ombre d’un bosquet ou d’un bois, pour boire une boisson bienvenue. Et puis il y a le thé glacé, les glaces le soir sur les terrasses où nous nous affalons terrassés par la journée. Mais j’aime aussi ce climat de relachement général, la foule tranquille, la musique dans les rues, les promeneurs, bras dessus, bras dessous, qui passent sous mon balcon. Et enfin, ce plaisir, presque pervers, de se mettre à la fenêtre pendant un bel orage, de se sentir petit et puissant, mais surtout protégé. Savoir qu’après cet orage, une douce fraîcheur rendra la nuit agréable et que celle-ci se terminera au son du pépillement des oiseaux entrant par la fenêtre ouverte sur une nouvelle journée d’été. Où bien serait-ce l’automne qui arrive déjà?
