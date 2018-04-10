@@ -4,7 +4,10 @@ title: Thibaut Girard
 prv: p09_Thibaut
 nxt: p13_aparte
 ---
-
+## Exercice: Anagramme
+Faites une liste de vingt mots d'au moins 4 lettres contenus dans votre nom. Vous avez le droit de doublez les lettres et d'ajoutez une consone à condition qu'elle soit muette.
+Vous rédigerez ensuite un court récit d'une vingtaine de lignes _(manuscriptes)_ en intégrant les vingt mots trouvés.
+---
 Thibaut Girard:
 
 1. Tari
