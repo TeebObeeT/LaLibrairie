@@ -4,12 +4,12 @@ title: Aparté
 prv: p11_Thibaut_Girard
 nxt: p17_boule_de_neige
 ---
-## Exerice : Aparté
+## Exercice : Aparté
 Imaginez une courte scène amoureuse entre deux jeunes gens qui se cachent soit leurs sentiments, soit des informations importantes. Afin d'éviter les platitudes sentimentales, vous intégrerez des apartés qui créeront des dissonances comiques ou ironiques dans le dialogue.
 
 ---
 
-«Lui - Ma chère et tendre !  
+"Lui - Ma chère et tendre !  
 (Qu”est ce qu”elle fait là?!)
 
 Elle - Bonjour mon amour  
@@ -27,5 +27,5 @@ Lui - C”est une bonne idée, il y a le Spub qui retransmet le match
 Elle - Il y a match ce soir ? Je suis désolé, j”ai réservé une table à la vinothèque, ils doivent pas avoir la télé  
 (Il va bien finir par me lâcher !)
 
-Lui - Quelle bonne initiative mon amour !  
-(Quelle conne ! Elle me fait chier, mais bon, elle pourra m”avoir les textes de l”exam en avance, plus que 3 mois)
+Lui - Quelle bonne initiative mon amour ! " 
+(Quelle conne ! Elle me fait chier, mais bon, elle pourra m'avoir les textes de l'exam en avance, plus que 3 mois)

@@ -8,7 +8,7 @@ A la manière de Raymonhd Devos, vous inventerez un dialogue absorde où vous vo
 
 ---
 
--Il faut que je te parle
+"-Il faut que je te parle
 
 -Oui ?
 
@@ -20,7 +20,7 @@ A la manière de Raymonhd Devos, vous inventerez un dialogue absorde où vous vo
 
 -Ben arrête de tourner autour du pot, dis lui franchement
 
--J'en ai plus!
+-J'en ai plus !
 
 -De quoi ?
 
@@ -28,32 +28,32 @@ A la manière de Raymonhd Devos, vous inventerez un dialogue absorde où vous vo
 
 -Tu lui dis franchement, et le problème est réglé en deux coups de cuiller à pot...
 
--Ha non, un seul, mais un gros!
+-Ha non, un seul, mais un gros !
 
 -Comment ça ?
 
--Un gros coup de cul hier!
+-Un gros coup de cul hier !
 
--Ben du coup c'est deux fois plus rapide!
+-Ben du coup c'est deux fois plus rapide !
 
--Ben non, parce qu'aujourd'hui, plus de pot!
+-Ben non, parce qu'aujourd'hui, plus de pot !
 
--Bon arrête de tourner autour du pot!
+-Bon arrête de tourner autour du pot !
 
--Puisque je te dis que j'en ai plus, il m'est tombé dessus!
+-Puisque je te dis que j'en ai plus, il m'est tombé dessus !
 
 -Qui ça ?
 
 -J'ai cassé le pot aux roses
 
--C'est "découvert" l'expression!
+-C'est "découvert" l'expression !
 
 -Quelle expression ?
 
 -Tu as découvert le pot aux roses! A propos de ton chef ?
 
--Mais non, mon chef, je m'en fous, je veux démissionner, parce que j'ai eu du cul hier, j'ai gagné au loto!
+-Mais non, mon chef, je m'en fous, je veux démissionner, parce que j'ai eu du cul hier, j'ai gagné au loto !
 
--Ha ba voilé, j'ai enfin découvert le pot aux roses!
+-Ha ba voilé, j'ai enfin découvert le pot aux roses !
 
--Mais non, je te dis que je l'ai cassé!
+-Mais non, je te dis que je l'ai cassé !"
