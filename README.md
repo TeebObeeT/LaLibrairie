@@ -32,8 +32,6 @@ Nouvelles, romans, exercices, brouillons et autres vagabondages
 
 ### Pour plus tard
 
-* Changer les guillemets
-* Changer les tirets de dialogue
+* 2 majuscules dans titre (capitalize en force 1 seule?)
 * Calligraphie pour textes poétiques (sur italique ? "violer" le souligné?)
-* Forcer le fixsys
 * Générateur de epub
