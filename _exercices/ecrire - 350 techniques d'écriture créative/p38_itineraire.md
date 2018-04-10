@@ -8,6 +8,7 @@ nxt: p44_portraitschinois
 **Comme ça vient, usage de la 2ème personne suivi d'un verbe** - 20'
 
 Sur le premier vers d'un poème de Robert Desnos, s'emmener là où l'inspiration vous porte, au fil de l'écriture...
+
 ---
 
 Tu prends la première à gauche,  
