@@ -1,7 +1,7 @@
 ---
 project: L'atelier d'écriture
 title: Thibaut Girard
-prv: p9_Thibaut
+prv: p09_Thibaut
 nxt: p13_aparte
 ---
 
