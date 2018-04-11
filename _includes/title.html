@@ -1,6 +1,9 @@
 {% assign words = page.title | split:" " %}
 {% assign w=words[0] | capitalize %}
+{{ words | inspect }} <br/>
 {% assign words=words | shift %}
+{{ words | inspect }} <br/>
 {% assign words=words | unshift w %}
+{{ words | inspect }} <br/>
 {% assign t=words | join " " %}
 {{ t }}
