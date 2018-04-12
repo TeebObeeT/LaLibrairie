@@ -32,7 +32,6 @@ Nouvelles, romans, exercices, brouillons et autres vagabondages
 
 ### Pour plus tard
 
-* Navigation back to project (et collection ?) : breadcrumb?
 * Calligraphie pour textes poétiques (sur italique ? "violer" le souligné ?)
 * Générateur de epub
 * Calligraphie classe pour première lettre du titre ?
