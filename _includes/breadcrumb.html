@@ -1,6 +1,8 @@
 {% if page.collection %}
+<span class="breadcrumb">
   <a href="{{site.url}}/{{ page.collection }}">{{ page.collection | capitalize }}</a>/
   {% if page.project %}
     <a href="{{site.url}}/{{ page.collection }}/{{ page.project }}">{{ page.project | capitalize }}</a>/
   {% endif %}
+</span>
 {% endif %}
