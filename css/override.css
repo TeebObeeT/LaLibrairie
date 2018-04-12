@@ -18,11 +18,13 @@ h1,h2,h3,h4,h5 {
     text-transform: capitalize;
 }
 #main_content h1::first-letter{
-    font-size: 2.5em !important;
-    background-color: rgb(70, 8, 6) !important;
-    color: rgb(255, 244, 193) !important;
+    font-size: 1.8em !important;
+    background-color: rgb(43, 43, 43) !important;
+    color: rgb(245, 245, 245) !important;
     font-family: Georgia, 'Times New Roman', Times, serif !important;
-    font-weight: bolder
+    border-radius: 5% !important;
+    line-height: 0.9em !important;
+    font-weight: bold !important;
 }
 h1 {
     font-size: 2.0 em !important;
