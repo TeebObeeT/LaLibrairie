@@ -32,7 +32,7 @@ Nouvelles, romans, exercices, brouillons et autres vagabondages
 
 ### Pour plus tard
 
-* 2 majuscules dans titre (capitalize en force 1 seule ?)
 * Navigation back to project (et collection ?) : breadcrumb?
 * Calligraphie pour textes poétiques (sur italique ? "violer" le souligné ?)
 * Générateur de epub
+* Calligraphie classe pour première lettre du titre ?

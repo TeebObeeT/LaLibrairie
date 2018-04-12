@@ -1,0 +1,7 @@
+/collection/project
+{% if page.collection %}
+  <a href="{{site.url}}/{{ page.collection }}">{{ page.collection | capitalize }}</a>/
+{% endif %}
+{% if page.project %}
+  <a href="{{site.url}}/{{ page.collection }}/{{ page.project }}">{{ page.project | capitalize }}</a>/
+{% endif %}
