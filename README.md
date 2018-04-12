@@ -32,6 +32,4 @@ Nouvelles, romans, exercices, brouillons et autres vagabondages
 
 ### Pour plus tard
 
-* Calligraphie pour textes poétiques (sur italique ? "violer" le souligné ?)
 * Générateur de epub
-* Calligraphie classe pour première lettre du titre ?

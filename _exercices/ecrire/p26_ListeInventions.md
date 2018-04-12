@@ -10,7 +10,7 @@ Construire un poème commençant par *"Je voudrais pas mourir sans qu’on ait i
 
 ---
 
-Je voudrais pas mourir sans qu’on ait inventé,  
+*Je voudrais pas mourir sans qu’on ait inventé,  
 Près, un peu de perlinpinpin  
 Le voyage immédiat  
 Le réel fantastique  
@@ -21,4 +21,4 @@ Un voyage éternel
 Ce monde sans tête  
 Ce rêve sempiternel  
 Ce monde en fête  
-Loin, un livre de lune
+Loin, un livre de lune*

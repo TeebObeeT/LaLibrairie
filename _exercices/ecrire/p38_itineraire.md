@@ -11,7 +11,7 @@ Sur le premier vers d'un poème de Robert Desnos, s'emmener là où l'inspiratio
 
 ---
 
-Tu prends la première à gauche,  
+*Tu prends la première à gauche,  
 tu longes la rivière jusqu’au fleuve  
 tu passes sur le pont  
 tu passes sous le pont  
@@ -37,4 +37,4 @@ tu trouves la péniche bleue
 tu ouvres la boite aux lettres avec la clef  
 tu prends le message qui s’y trouve  
 tu suis ces indications  
-qui te mèneront là où tu voulais te rendre  
+qui te mèneront là où tu voulais te rendre*
