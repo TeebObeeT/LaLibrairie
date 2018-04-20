@@ -1,3 +1,9 @@
+
+@font-face {
+	font-family: "Alex";
+	src: url('AlexBrush-Regular.ttf');
+}
+
 p.subtitle {
     font-style: italic !important;
     padding-top: 0 !important;
@@ -21,7 +27,7 @@ h1,h2,h3,h4,h5 {
     font-size: 1.8em !important;
     background-color: rgb(43, 43, 43) !important;
     color: rgb(245, 245, 245) !important;
-    font-family: Georgia, 'Times New Roman', Times, serif !important;
+    font-family: 'Alex', 'Times New Roman', Times, serif !important;
     border-radius: 5% !important;
     line-height: 0.9em !important;
     font-weight: bold !important;
