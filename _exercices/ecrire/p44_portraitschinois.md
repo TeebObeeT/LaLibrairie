@@ -2,7 +2,7 @@
 project: ecrire
 title: Portraits chinois
 prv: p38_itineraire
-nxt: p88_anaphore.md
+nxt: p88_anaphore
 ---
 
 **Prose poétique, poème, texte narratif** - 10' par proposition
