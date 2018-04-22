@@ -3,10 +3,6 @@ project: l'atelier d'écriture
 title: Pot aux roses
 prv: p17_boule_de_neige
 ---
-## Exercice : Chasse au cliché
-A la manière de Raymonhd Devos, vous inventerez un dialogue absorde où vous vous amuserez à détourner le sens des expressions imagées que vous employez. Le dialogue fera intervenir deux personnages incarnant une expression : celui qui "a les dents longues" et celui qui "garde une dent contre quelqu'un", ou bien celui qui "n'a pas la langue dans sa poche", et l'homme qui "a un mot au bout de la langue".
-
----
 
 "-Il faut que je te parle
 
@@ -57,3 +53,7 @@ A la manière de Raymonhd Devos, vous inventerez un dialogue absorde où vous vo
 -Ha ba voilé, j'ai enfin découvert le pot aux roses !
 
 -Mais non, je te dis que je l'ai cassé !"
+
+---
+## Exercice : Chasse au cliché
+A la manière de Raymonhd Devos, vous inventerez un dialogue absorde où vous vous amuserez à détourner le sens des expressions imagées que vous employez. Le dialogue fera intervenir deux personnages incarnant une expression : celui qui "a les dents longues" et celui qui "garde une dent contre quelqu'un", ou bien celui qui "n'a pas la langue dans sa poche", et l'homme qui "a un mot au bout de la langue".
