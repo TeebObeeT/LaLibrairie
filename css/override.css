@@ -59,7 +59,7 @@ a {
     color: rgb(255, 251, 231) !important; 
 }
 div#header_wrap {
-    height: 3em !important;
+    height: 6em !important;
 }
 div#header_wrap p.subtitle, div#header_wrap p.subtitle a {
     margin-top:0 !important;
