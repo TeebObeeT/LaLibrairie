@@ -4,8 +4,8 @@
 	src: url('AlexBrush-Regular.ttf');
 }
 @font-face {
-	font-family: "odstemplik";
-	src: url('odstemplik.otf') format("opentype");
+	font-family: "Tangerine";
+	src: url('Tangerine_Regular.ttf');
 }
 p.subtitle {
     font-style: italic !important;
@@ -93,7 +93,7 @@ span.breadcrumb a {
     padding-top:0;
 }
 blockquote {
-    font-family: 'odstemplik', 'Times New Roman', Times, serif !important;
+    font-family: 'Tangerine', 'Times New Roman', Times, serif !important;
     font-size: 1.4em !important;
     color: rgb(15, 12, 161) !important;
 }
