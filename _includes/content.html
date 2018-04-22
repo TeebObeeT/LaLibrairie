@@ -28,7 +28,8 @@
                     | replace: ' !', '<span style="white-space:nowrap">&thinsp;</span>!'
                     | replace @: ' ?', '<span style="white-space:nowrap">&thinsp;</span>?'
                     | replace: ' - ',' – ' 
-                    | replace: '-',' – ' %}
+                    | replace: ' -',' – '
+                    | replace: '- ',' – ' %}
 
     {% if part.size == 2 %}
 
