@@ -4,17 +4,17 @@ title: Cordes
 prv: p44_portraitschinois
 ---
 
-Cordes, imagerie tombée du ciel  
-Cordes, mouillées, trempées, sans avoir le droit de naviguer  
-Cordes, jamais aussi présentent que par leur absence  
-Cordes, connues pour appeler les éceuils  
-Cordes, prolongement du cordon et servant à enfouir les cerceuil  
-Cordes, qui nous descendent dans les enfers  
-Cordes, qui nous tirent dans les éthers  
-Cordes, qui résonnent jusqu'à nous frapper  
-Cordes, frappées jusqu'à en perdre la raison  
-Cordes, pour gravir les plus hauts sonnets  
-Cordes, pour graver les plus beaux sommets  
+>Cordes, imagerie tombée du ciel  
+>Cordes, mouillées, trempées, sans avoir le droit de naviguer  
+>Cordes, jamais aussi présentent que par leur absence  
+>Cordes, connues pour appeler les éceuils  
+>Cordes, prolongement du cordon et servant à enfouir les cerceuil  
+>Cordes, qui nous descendent dans les enfers  
+>Cordes, qui nous tirent dans les éthers  
+>Cordes, qui résonnent jusqu'à nous frapper  
+>Cordes, frappées jusqu'à en perdre la raison  
+>Cordes, pour gravir les plus hauts sonnets  
+>Cordes, pour graver les plus beaux sommets  
 
 ---
 **Utilisation de l'anaphore, prose poétique, poèsie...** - 10' par proposition
