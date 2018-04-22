@@ -5,7 +5,7 @@
 }
 @font-face {
 	font-family: "Tangerine";
-	src: url('Tangerine_Regular.ttf');
+	src: url('Tangerine_Bold.ttf');
 }
 p.subtitle {
     font-style: italic !important;
