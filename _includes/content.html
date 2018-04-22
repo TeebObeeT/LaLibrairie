@@ -16,7 +16,8 @@
                     | replace: ' !', '<span style="white-space:nowrap">&thinsp;</span>!'
                     | replace @: ' ?', '<span style="white-space:nowrap">&thinsp;</span>?'
                     | replace: ' - ', '<span style="white-space:nowrap">&thinsp;</span>–<span style="white-space:nowrap">&thinsp;</span>'
-                    | replace: '- ', '–<span style="white-space:nowrap">&thinsp;</span>'%}
+                    | replace: '- ', '–<span style="white-space:nowrap">&thinsp;</span>'
+                    | replace: '"- ', '«&#160;–<span style="white-space:nowrap">&thinsp;</span>'%}
 
     {% if part.size == 2 %}
 
