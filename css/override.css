@@ -89,5 +89,6 @@ span.breadcrumb a {
 }
 blockquote {
     font-family: 'Alex', 'Times New Roman', Times, serif !important;
-    font-size: 1.2em !important;
+    font-size: 1.4em !important;
+    color: rgb(15, 12, 161)
 }
