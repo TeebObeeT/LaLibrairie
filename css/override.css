@@ -4,7 +4,7 @@
 	src: url('AlexBrush-Regular.ttf');
 }
 @font-face {
-	font-family: "Tangerine";
+	font-family: "Gabrielle";
 	src: url('Gabrielle.ttf');
 }
 p.subtitle {
@@ -93,7 +93,8 @@ span.breadcrumb a {
     padding-top:0;
 }
 blockquote {
-    font-family: 'Tangerine', 'Times New Roman', Times, serif !important;
-    font-size: 1.5em !important;
+    font-family: 'Gabrielle', 'Times New Roman', Times, serif !important;
+    font-size: 1.3em !important;
+    font-weight: lighter !important;
     color: rgb(15, 12, 161) !important;
 }
