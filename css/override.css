@@ -5,7 +5,7 @@
 }
 @font-face {
 	font-family: "odstemplik";
-	src: url('odstemplik.otf');
+	src: url('odstemplik.otf') format("otf");
 }
 @font-face {
 	font-family: "Precious";
