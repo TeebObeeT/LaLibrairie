@@ -5,7 +5,7 @@
 }
 @font-face {
 	font-family: "odstemplik";
-	src: url('odstemplik.otf') format("otf");
+	src: url('odstemplik.otf') format("opentype");
 }
 @font-face {
 	font-family: "Precious";
@@ -33,9 +33,9 @@ h1,h2,h3,h4,h5 {
 #main_content h1::first-letter{
     font-size: 1.8em !important;
     /* background-color: rgb(43, 43, 43) !important; */
-    /* color:  rgb(45, 45, 45) !important; */
-    color: gold !important;
-    background-color: maroon !important;
+    color:  rgb(45, 45, 45) !important;
+    /* color: gold !important;
+    background-color: maroon !important; */
     font-family: 'Precious', 'Times New Roman', Times, serif !important;
     border-radius: 5% !important;
     line-height: 0.9em !important;
