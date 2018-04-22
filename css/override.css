@@ -87,3 +87,6 @@ span.breadcrumb a {
     margin-top:0;
     padding-top:0;
 }
+em {
+    font-family: 'Alex', 'Times New Roman', Times, serif !important;
+}
