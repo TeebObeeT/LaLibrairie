@@ -30,25 +30,25 @@ A
 ```
 
 >A  
->NE  
->PAS  
->LIRE  
->AVANT  
->DORMIR  
->SEVERES  
->RANCUNES  
->ILLUSIONS  
->MENACANTES  
->LITTERATURE  
->DESENGAGEE  
->AUTREMENT  
->HEUREUSE  
->PRODUIT  
->EFFETS  
->RIANT  
->DOUX  
->SUR  
->IL  
+>Ne  
+>Pas  
+>Lire  
+>Avant  
+>Dormir  
+>Sévères  
+>Rancunes  
+>Illusions  
+>Menaçantes  
+>Littérature  
+>Désengagée   
+>Autrement  
+>Heureuse  
+>Produit  
+>Effets  
+>Riant  
+>Doux  
+>Sur  
+>Il  
 >A
 
 
