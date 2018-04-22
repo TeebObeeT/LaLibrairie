@@ -16,8 +16,8 @@
                     | replace: ' !', '<span style="white-space:nowrap">&thinsp;</span>!'
                     | replace @: ' ?', '<span style="white-space:nowrap">&thinsp;</span>?'
                     | replace: ' - ', '<span style="white-space:nowrap">&thinsp;</span>–<span style="white-space:nowrap">&thinsp;</span>'
-                    | replace: '- ', '–<span style="white-space:nowrap">&thinsp;</span>'%}
-
+                    | replace: '- ', '—<span style="white-space:nowrap">&thinsp;</span>'%}
+                    
     {% if part.size == 2 %}
 
       {% capture output %}{{ output }}<pre{{ c }}</pre>{% endcapture %}
