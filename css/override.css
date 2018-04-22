@@ -59,7 +59,7 @@ a {
     color: rgb(255, 251, 231) !important; 
 }
 div#header_wrap {
-    height: 5em !important;
+    height: 7em !important;
 }
 div#header_wrap p.subtitle, div#header_wrap p.subtitle a {
     margin-top:0 !important;
@@ -79,6 +79,7 @@ header.inner {
 #project_title a {
     color: whitesmoke !important;    
     text-shadow: #111 0px 0px 10px !important;
+    margin-top: 2em !important;
 }
 #project_tagline {
     font-size: 1.2em !important;
