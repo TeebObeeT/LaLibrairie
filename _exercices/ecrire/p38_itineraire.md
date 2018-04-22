@@ -22,7 +22,7 @@ nxt: p44_portraitschinois
 >tu arrives derrière le manoir  
 >tu trouves la remise sur ta gauche  
 >sous le paillasson, tu prends la clef  
->tu reprend le chemin de terre  
+>tu reprends le chemin de terre  
 >quand tu croises la route, tu tournes à droite  
 >tu descends jusqu’au point de vue  
 >tu t’arrêtes pour réfléchir  
