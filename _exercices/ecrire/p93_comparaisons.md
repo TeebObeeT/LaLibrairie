@@ -4,14 +4,14 @@ title: Cordes
 prv: p88_anaphore
 ---
 
-* L'imagination c'est comme...
-
-* La peur
-* Le rire
-* La joie
-* La colère
-* La tristesse
-* La solitude
+* L'imagination c'est comme un lever de soleil sous la mer
+* La peur c'est comme une douche froide en plein hiver
+* Le rire c'est comme une musique en harmonie
+* La joie c'est comme un bon repas après un long jeun
+* La colère c'est comme des aiguilles d'acier dans la tête
+* La tristesse c'est comme des vacances pluvieuses à la maison
+* La solitude c'est l'autonomie en tout et pour tout
+ 
 * L'amour
 * La pitié
 * La haine
